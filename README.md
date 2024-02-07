@@ -7,9 +7,9 @@ Proyecto de json en python sobre overwatch.
    
    Permite listar todos los personajes disponibles en Overwatch.
 
-2. **Contar con cuántos héroes has conseguido más o las mismas medallas de oro que especifiques por teclado:**
+2. **Contar con cuántos personajes has conseguido más o las mismas medallas de oro que especifiques por teclado:**
    
-   Pide al usuario un número de medallas de oro y cuenta cuántos héroes ha conseguido igual o más medallas de oro que el número especificado.
+   Pide al usuario un número de medallas de oro y cuenta cuántos personajes ha conseguido igual o más medallas de oro que el número especificado.
 
 3. **Pedir por teclado un número de partidas ganadas y listar los héroes con los que has conseguido esas o más victorias:**
    
