@@ -1,0 +1,3938 @@
+{
+    "info": {
+        "username": "TeKrop",
+        "avatar": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f0726728d41dccb816d1c8f26a44b0cde9a6d86ba0ed34b9ca6b70cca3fd618e.png",
+        "level": {
+            "value": 1282,
+            "border": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/98f6eea1a2a10576251d6c690c13d52aaac19b06811ed2b684b43e7a9318f622.png",
+            "rank": ""
+        },
+        "competitive": {
+            "skillRating": 2796,
+            "rank": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/rank-PlatinumTier.png"
+        },
+        "endorsement": {
+            "level": 3,
+            "frame": "https://d3hmvhl7ru3t12.cloudfront.net/svg/icons/endorsement-frames-be58f32488898c106f2ad8b1c3012dbce42d19b758c4b18bf2afbe91fc8f1d2cc83a0de433321792ff0fb3a1f66d37ded31598bd538838b30fa4537db617926e.svg#_3",
+            "distribution": {
+                "shotcaller": 0.12,
+                "teammate": 0.41,
+                "sportsmanship": 0.47
+            }
+        },
+        "privacy": "public"
+    },
+    "quickplay": {
+        "heroComparison": {
+            "timePlayed": {
+                "reinhardt": 684000,
+                "zarya": 468000,
+                "zenyatta": 370800,
+                "ana": 226800,
+                "roadhog": 198000,
+                "winston": 154800,
+                "moira": 147600,
+                "dva": 79200,
+                "soldier-76": 75600,
+                "mercy": 75600,
+                "lucio": 68400,
+                "mccree": 43200,
+                "tracer": 39600,
+                "orisa": 36000,
+                "pharah": 14400,
+                "junkrat": 10800,
+                "brigitte": 10800,
+                "mei": 7200,
+                "genji": 7200,
+                "reaper": 3600,
+                "widowmaker": 3000,
+                "bastion": 2040,
+                "torbjorn": 1980,
+                "symmetra": 960,
+                "wreckingBall": 960,
+                "sombra": 780,
+                "hanzo": 720,
+                "doomfist": 0
+            },
+            "gamesWon": {
+                "reinhardt": 885,
+                "zarya": 499,
+                "zenyatta": 467,
+                "roadhog": 206,
+                "ana": 200,
+                "moira": 167,
+                "winston": 141,
+                "dva": 96,
+                "soldier-76": 88,
+                "lucio": 73,
+                "mercy": 59,
+                "mccree": 51,
+                "orisa": 41,
+                "tracer": 40,
+                "pharah": 19,
+                "brigitte": 17,
+                "junkrat": 13,
+                "mei": 8,
+                "genji": 7,
+                "reaper": 6,
+                "bastion": 4,
+                "torbjorn": 3,
+                "symmetra": 1,
+                "widowmaker": 1,
+                "sombra": 0,
+                "wreckingBall": 0,
+                "hanzo": 0,
+                "doomfist": 0
+            },
+            "weaponAccuracy": {
+                "pharah": 44,
+                "mccree": 41,
+                "zarya": 39,
+                "sombra": 35,
+                "soldier-76": 35,
+                "wreckingBall": 34,
+                "torbjorn": 33,
+                "tracer": 30,
+                "widowmaker": 29,
+                "hanzo": 28,
+                "lucio": 28,
+                "orisa": 27,
+                "mei": 26,
+                "genji": 25,
+                "zenyatta": 24,
+                "reaper": 24,
+                "roadhog": 22,
+                "dva": 22,
+                "junkrat": 20,
+                "mercy": 20,
+                "bastion": 15,
+                "ana": 12,
+                "reinhardt": 0,
+                "winston": 0,
+                "symmetra": 0,
+                "doomfist": 0,
+                "brigitte": 0,
+                "moira": 0
+            },
+            "eliminationsPerLife": {
+                "dva": 3.45,
+                "moira": 3.37,
+                "roadhog": 2.8,
+                "zarya": 2.76,
+                "brigitte": 2.67,
+                "mccree": 2.64,
+                "soldier-76": 2.64,
+                "reaper": 2.59,
+                "torbjorn": 2.34,
+                "orisa": 2.27,
+                "tracer": 2.24,
+                "zenyatta": 2.18,
+                "winston": 2.1,
+                "sombra": 2.1,
+                "reinhardt": 1.81,
+                "mei": 1.79,
+                "pharah": 1.74,
+                "bastion": 1.68,
+                "junkrat": 1.67,
+                "lucio": 1.46,
+                "genji": 1.31,
+                "widowmaker": 1.22,
+                "wreckingBall": 1.22,
+                "symmetra": 1.17,
+                "ana": 1.05,
+                "hanzo": 0.78,
+                "mercy": 0.08,
+                "doomfist": 0
+            },
+            "multikillBest": {
+                "reinhardt": 6,
+                "roadhog": 5,
+                "zarya": 5,
+                "tracer": 4,
+                "pharah": 4,
+                "winston": 4,
+                "zenyatta": 4,
+                "mccree": 4,
+                "junkrat": 4,
+                "soldier-76": 4,
+                "lucio": 4,
+                "dva": 4,
+                "mei": 4,
+                "ana": 4,
+                "orisa": 4,
+                "brigitte": 4,
+                "moira": 4,
+                "reaper": 3,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "genji": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "wreckingBall": 0
+            },
+            "objectiveKillsAverage": {
+                "reaper": 0,
+                "tracer": 0,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "reinhardt": 0,
+                "pharah": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "zenyatta": 0,
+                "genji": 0,
+                "roadhog": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "zarya": 0,
+                "soldier-76": 0,
+                "lucio": 0,
+                "dva": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0,
+                "moira": 0,
+                "wreckingBall": 0
+            }
+        },
+        "careerStats": {
+            "allHeroes": {
+                "best": {
+                    "allDamageDoneMostInGame": 24972,
+                    "barrierDamageDoneMostInGame": 15015,
+                    "defensiveAssistsMostInGame": 37,
+                    "eliminationsMostInGame": 55,
+                    "environmentalKillsMostInGame": 5,
+                    "finalBlowsMostInGame": 27,
+                    "healingDoneMostInGame": 16591,
+                    "heroDamageDoneMostInGame": 16288,
+                    "killStreakBest": 55,
+                    "meleeFinalBlowsMostInGame": 5,
+                    "multikillBest": 6,
+                    "objectiveKillsMostInGame": 34,
+                    "objectiveTimeMostInGame": 465,
+                    "offensiveAssistsMostInGame": 37,
+                    "reconAssistsMostInGame": 6,
+                    "soloKillsMostInGame": 27,
+                    "teleporterPadsDestroyedMostInGame": 3,
+                    "timeSpentOnFireMostInGame": 561,
+                    "turretsDestroyedMostInGame": 23
+                },
+                "assists": {
+                    "defensiveAssists": 22574,
+                    "healingDone": 10588291,
+                    "offensiveAssists": 18633,
+                    "reconAssists": 8
+                },
+                "combat": {
+                    "allDamageDone": 29553935,
+                    "barrierDamageDone": 5033423,
+                    "damageDone": 14366935,
+                    "deaths": 35584,
+                    "eliminations": 75682,
+                    "environmentalKills": 279,
+                    "finalBlows": 31989,
+                    "heroDamageDone": 14366935,
+                    "meleeFinalBlows": 737,
+                    "multikills": 781,
+                    "objectiveKills": 33648,
+                    "objectiveTime": 369264,
+                    "soloKills": 5459,
+                    "timeSpentOnFire": 282701
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 77,
+                    "turretsDestroyed": 3777
+                },
+                "game": {
+                    "gamesWon": 3091,
+                    "timePlayed": 2773734
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 10.65,
+                    "barrierDamageDoneAvgPer10Min": 1.81,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "healingDoneAvgPer10Min": 3.82,
+                    "heroDamageDoneAvgPer10Min": 8.07,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                },
+                "matchAwards": {
+                    "cards": 2830,
+                    "medals": 17572,
+                    "medalsGold": 7222,
+                    "medalsSilver": 5803,
+                    "medalsBronze": 4547
+                }
+            },
+            "ana": {
+                "combat": {
+                    "allDamageDone": 1004504,
+                    "barrierDamageDone": 265248,
+                    "deaths": 3254,
+                    "eliminations": 3432,
+                    "environmentalKills": 2,
+                    "finalBlows": 849,
+                    "heroDamageDone": 708629,
+                    "meleeFinalBlows": 44,
+                    "multikills": 6,
+                    "objectiveKills": 1510,
+                    "objectiveTime": 19792,
+                    "quickMeleeAccuracy": 27,
+                    "soloKills": 93,
+                    "timeSpentOnFire": 11196,
+                    "weaponAccuracy": 12
+                },
+                "game": {
+                    "gamesWon": 200,
+                    "timePlayed": 230011
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 6445,
+                    "allDamageDoneMostInLife": 4515,
+                    "barrierDamageDoneMostInGame": 3275,
+                    "eliminationsMostInGame": 23,
+                    "eliminationsMostInLife": 14,
+                    "finalBlowsMostInGame": 8,
+                    "heroDamageDoneMostInGame": 5323,
+                    "heroDamageDoneMostInLife": 3568,
+                    "killStreakBest": 14,
+                    "meleeFinalBlowsMostInGame": 2,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 15,
+                    "objectiveTimeMostInGame": 226,
+                    "soloKillsMostInGame": 3,
+                    "timeSpentOnFireMostInGame": 475,
+                    "weaponAccuracyBestInGame": 38
+                },
+                "miscellaneous": {
+                    "teleporterPadDestroyed": 1,
+                    "turretsDestroyed": 163
+                },
+                "matchAwards": {
+                    "medalsBronze": 234,
+                    "medalsSilver": 392,
+                    "medalsGold": 368,
+                    "medals": 993,
+                    "cards": 132
+                },
+                "heroSpecific": {
+                    "bioticGrenadeKills": 1624,
+                    "enemiesSlept": 1731,
+                    "enemiesSleptAvgPer10Min": 0.01,
+                    "enemiesSleptMostInGame": 14,
+                    "nanoBoostAssists": 556,
+                    "nanoBoostAssistsAvgPer10Min": 0,
+                    "nanoBoostAssistsMostInGame": 8,
+                    "nanoBoostsApplied": 602,
+                    "nanoBoostsAppliedAvgPer10Min": 0,
+                    "nanoBoostsAppliedMostInGame": 4,
+                    "scopedAccuracy": 56,
+                    "scopedAccuracyBestInGame": 100,
+                    "secondaryFireAccuracy": 12,
+                    "selfHealing": 213163,
+                    "selfHealingAvgPer10Min": 0.93,
+                    "selfHealingMostInGame": 1615,
+                    "unscopedAccuracy": 54,
+                    "unscopedAccuracyBestInGame": 82
+                },
+                "assists": {
+                    "defensiveAssists": 3821,
+                    "defensiveAssistsAvgPer10Min": 0.02,
+                    "defensiveAssistsMostInGame": 26,
+                    "healingDone": 1999807,
+                    "healingDoneAvgPer10Min": 8.69,
+                    "healingDoneMostInGame": 11399,
+                    "offensiveAssists": 2496,
+                    "offensiveAssistsAvgPer10Min": 0.01,
+                    "offensiveAssistsMostInGame": 19
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 4.37,
+                    "barrierDamageDoneAvgPer10Min": 1.16,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.01,
+                    "eliminationsPerLife": 1.05,
+                    "finalBlowsAvgPer10Min": 0,
+                    "heroDamageDoneAvgPer10Min": 3.1,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "bastion": {
+                "combat": {
+                    "allDamageDone": 22700,
+                    "barrierDamageDone": 2453,
+                    "criticalHitAccuracy": 6,
+                    "criticalHits": 94,
+                    "deaths": 29,
+                    "eliminations": 49,
+                    "finalBlows": 22,
+                    "heroDamageDone": 3222,
+                    "objectiveKills": 23,
+                    "objectiveTime": 87,
+                    "soloKills": 9,
+                    "timeSpentOnFire": 161,
+                    "weaponAccuracy": 16
+                },
+                "game": {
+                    "gamesWon": 4,
+                    "timePlayed": 2059
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 5202,
+                    "allDamageDoneMostInLife": 3134,
+                    "barrierDamageDoneMostInGame": 1914,
+                    "criticalHitsMostInGame": 33,
+                    "criticalHitsMostInLife": 24,
+                    "eliminationsMostInGame": 15,
+                    "eliminationsMostInLife": 9,
+                    "finalBlowsMostInGame": 6,
+                    "heroDamageDoneMostInGame": 2439,
+                    "heroDamageDoneMostInLife": 929,
+                    "killStreakBest": 9,
+                    "objectiveKillsMostInGame": 9,
+                    "objectiveTimeMostInGame": 23,
+                    "soloKillsMostInGame": 3,
+                    "weaponAccuracyBestInGame": 52
+                },
+                "heroSpecific": {
+                    "reconKills": 11,
+                    "reconKillsAvgPer10Min": 0.01,
+                    "reconKillsMostInGame": 4,
+                    "secondaryFireAccuracy": 16,
+                    "selfHealing": 3507,
+                    "selfHealingAvgPer10Min": 1.7,
+                    "selfHealingMostInGame": 1427,
+                    "sentryKills": 37,
+                    "sentryKillsAvgPer10Min": 0.02,
+                    "sentryKillsMostInGame": 12,
+                    "tankKill": 1,
+                    "tankKillMostInGame": 1,
+                    "tankKillsAvgPer10Min": 0
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 7
+                },
+                "matchAwards": {
+                    "medalsBronze": 3,
+                    "medalsSilver": 6,
+                    "medalsGold": 5,
+                    "medals": 14,
+                    "cards": 2
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 11.03,
+                    "barrierDamageDoneAvgPer10Min": 5.59,
+                    "criticalHitsAvgPer10Min": 0.05,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.69,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 7.34,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "brigitte": {
+                "combat": {
+                    "allDamageDone": 112500,
+                    "barrierDamageDone": 18622,
+                    "deaths": 135,
+                    "eliminations": 361,
+                    "environmentalKills": 3,
+                    "finalBlows": 135,
+                    "heroDamageDone": 91831,
+                    "multikills": 3,
+                    "objectiveKills": 147,
+                    "objectiveTime": 2344,
+                    "soloKills": 12,
+                    "timeSpentOnFire": 1875
+                },
+                "game": {
+                    "gamesWon": 17,
+                    "timePlayed": 12541
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 8497,
+                    "allDamageDoneMostInLife": 3893,
+                    "barrierDamageDoneMostInGame": 1785,
+                    "eliminationsMostInGame": 31,
+                    "eliminationsMostInLife": 12,
+                    "finalBlowsMostInGame": 11,
+                    "heroDamageDoneMostInGame": 6661,
+                    "heroDamageDoneMostInLife": 3123,
+                    "killStreakBest": 12,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 11,
+                    "objectiveTimeMostInGame": 226,
+                    "soloKillsMostInGame": 2,
+                    "timeSpentOnFireMostInGame": 470
+                },
+                "miscellaneous": {
+                    "teleporterPadDestroyed": 1,
+                    "turretsDestroyed": 7
+                },
+                "matchAwards": {
+                    "medalsBronze": 22,
+                    "medalsSilver": 37,
+                    "medalsGold": 25,
+                    "medals": 84,
+                    "cards": 19
+                },
+                "assists": {
+                    "defensiveAssists": 524,
+                    "defensiveAssistsAvgPer10Min": 0.04,
+                    "healingDone": 122736,
+                    "healingDoneAvgPer10Min": 9.79,
+                    "offensiveAssists": 119,
+                    "offensiveAssistsAvgPer10Min": 0.01
+                },
+                "heroSpecific": {
+                    "armorProvided": 82124,
+                    "armorProvidedAvgPer10Min": 6.55,
+                    "armorProvidedMostInGame": 6134,
+                    "damageBlocked": 72110,
+                    "damageBlockedAvgPer10Min": 5.75,
+                    "damageBlockedMostInGame": 6292,
+                    "inspireUptimePercentage": 30,
+                    "selfHealing": 26170,
+                    "selfHealingAvgPer10Min": 2.09
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 8.97,
+                    "barrierDamageDoneAvgPer10Min": 1.48,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.67,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 7.32,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "dva": {
+                "combat": {
+                    "allDamageDone": 1205459,
+                    "barrierDamageDone": 383030,
+                    "criticalHitAccuracy": 9,
+                    "criticalHits": 29964,
+                    "deaths": 848,
+                    "eliminations": 2934,
+                    "environmentalKills": 12,
+                    "finalBlows": 1120,
+                    "heroDamageDone": 676671,
+                    "meleeFinalBlows": 44,
+                    "multikills": 35,
+                    "objectiveKills": 1215,
+                    "objectiveTime": 12234,
+                    "quickMeleeAccuracy": 44,
+                    "soloKills": 206,
+                    "timeSpentOnFire": 7762,
+                    "weaponAccuracy": 23
+                },
+                "game": {
+                    "gamesWon": 96,
+                    "timePlayed": 82258
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 19694,
+                    "allDamageDoneMostInLife": 11489,
+                    "barrierDamageDoneMostInGame": 11564,
+                    "criticalHitsMostInGame": 417,
+                    "criticalHitsMostInLife": 283,
+                    "eliminationsMostInGame": 45,
+                    "eliminationsMostInLife": 29,
+                    "finalBlowsMostInGame": 17,
+                    "heroDamageDoneMostInGame": 10255,
+                    "heroDamageDoneMostInLife": 5872,
+                    "killStreakBest": 29,
+                    "meleeFinalBlowsMostInGame": 3,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 27,
+                    "objectiveTimeMostInGame": 198,
+                    "soloKillsMostInGame": 5,
+                    "timeSpentOnFireMostInGame": 438,
+                    "weaponAccuracyBestInGame": 93
+                },
+                "heroSpecific": {
+                    "damageBlocked": 684109,
+                    "damageBlockedAvgPer10Min": 8.32,
+                    "damageBlockedMostInGame": 10595,
+                    "mechDeaths": 1106,
+                    "mechsCalled": 674,
+                    "mechsCalledAvgPer10Min": 0.01,
+                    "mechsCalledMostInGame": 10,
+                    "secondaryFireAccuracy": 23,
+                    "selfdestructKills": 257,
+                    "selfdestructKillsAvgPer10Min": 0,
+                    "selfdestructKillsMostInGame": 8
+                },
+                "miscellaneous": {
+                    "teleporterPadDestroyed": 1,
+                    "turretsDestroyed": 90
+                },
+                "matchAwards": {
+                    "medalsBronze": 158,
+                    "medalsSilver": 177,
+                    "medalsGold": 237,
+                    "medals": 572,
+                    "cards": 56
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 14.65,
+                    "barrierDamageDoneAvgPer10Min": 5.65,
+                    "criticalHitsAvgPer10Min": 0.36,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.04,
+                    "eliminationsPerLife": 3.46,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 9.99,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "genji": {
+                "combat": {
+                    "allDamageDone": 84997,
+                    "barrierDamageDone": 1668,
+                    "criticalHitAccuracy": 10,
+                    "criticalHits": 169,
+                    "deaths": 151,
+                    "eliminations": 198,
+                    "finalBlows": 90,
+                    "heroDamageDone": 21267,
+                    "meleeFinalBlows": 6,
+                    "objectiveKills": 70,
+                    "objectiveTime": 754,
+                    "quickMeleeAccuracy": 21,
+                    "soloKills": 25,
+                    "timeSpentOnFire": 62,
+                    "weaponAccuracy": 25
+                },
+                "game": {
+                    "gamesWon": 7,
+                    "timePlayed": 8490
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 9322,
+                    "allDamageDoneMostInLife": 3289,
+                    "barrierDamageDoneMostInGame": 1366,
+                    "criticalHitsMostInGame": 27,
+                    "criticalHitsMostInLife": 10,
+                    "eliminationsMostInGame": 32,
+                    "eliminationsMostInLife": 10,
+                    "finalBlowsMostInGame": 12,
+                    "heroDamageDoneMostInGame": 9294,
+                    "heroDamageDoneMostInLife": 1776,
+                    "killStreakBest": 10,
+                    "meleeFinalBlowsMostInGame": 2,
+                    "objectiveKillsMostInGame": 15,
+                    "objectiveTimeMostInGame": 118,
+                    "soloKillsMostInGame": 3,
+                    "timeSpentOnFireMostInGame": 47,
+                    "weaponAccuracyBestInGame": 67
+                },
+                "heroSpecific": {
+                    "damageReflected": 22176,
+                    "damageReflectedAvgPer10Min": 2.61,
+                    "damageReflectedMostInGame": 3700,
+                    "deflectionKills": 10,
+                    "dragonbladeKills": 32,
+                    "dragonbladeKillsAvgPer10Min": 0,
+                    "dragonbladeKillsMostInGame": 6,
+                    "secondaryFireAccuracy": 25
+                },
+                "miscellaneous": {
+                    "teleporterPadDestroyed": 1,
+                    "turretsDestroyed": 5
+                },
+                "matchAwards": {
+                    "medalsBronze": 14,
+                    "medalsSilver": 13,
+                    "medalsGold": 10,
+                    "medals": 37,
+                    "cards": 2
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 10.01,
+                    "barrierDamageDoneAvgPer10Min": 0.69,
+                    "criticalHitsAvgPer10Min": 0.02,
+                    "deathsAvgPer10Min": 0.02,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.31,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 8.79,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "hanzo": {
+                "combat": {
+                    "allDamageDone": 9524,
+                    "barrierDamageDone": 3418,
+                    "criticalHitAccuracy": 13,
+                    "criticalHits": 7,
+                    "deaths": 14,
+                    "eliminations": 11,
+                    "finalBlows": 6,
+                    "heroDamageDone": 3000,
+                    "objectiveKills": 2,
+                    "objectiveTime": 6,
+                    "quickMeleeAccuracy": 100,
+                    "soloKills": 2,
+                    "weaponAccuracy": 29
+                },
+                "game": {
+                    "timePlayed": 725
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 6418,
+                    "allDamageDoneMostInLife": 2388,
+                    "barrierDamageDoneMostInGame": 3418,
+                    "criticalHitsMostInGame": 5,
+                    "criticalHitsMostInLife": 3,
+                    "eliminationsMostInGame": 6,
+                    "eliminationsMostInLife": 4,
+                    "finalBlowsMostInGame": 2,
+                    "heroDamageDoneMostInGame": 3000,
+                    "heroDamageDoneMostInLife": 1511,
+                    "killStreakBest": 4,
+                    "objectiveKillMostInGame": 1,
+                    "objectiveTimeMostInGame": 5,
+                    "soloKillMostInGame": 1,
+                    "weaponAccuracyBestInGame": 22
+                },
+                "heroSpecific": {
+                    "dragonstrikeKills": 2,
+                    "dragonstrikeKillsAvgPer10Min": 0,
+                    "dragonstrikeKillsMostInGame": 2,
+                    "secondaryFireAccuracy": 29,
+                    "stormArrowKills": 3,
+                    "stormArrowKillsAvgPer10Min": 0.01,
+                    "stormArrowKillsMostInGame": 3
+                },
+                "assists": {
+                    "reconAssists": 2,
+                    "reconAssistsAvgPer10Min": 0,
+                    "reconAssistsMostInGame": 2
+                },
+                "matchAwards": {
+                    "medalsSilver": 1,
+                    "medalsGold": 1,
+                    "medals": 2
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 13.13,
+                    "barrierDamageDoneAvgPer10Min": 15.27,
+                    "criticalHitsAvgPer10Min": 0.01,
+                    "deathsAvgPer10Min": 0.02,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 0.79,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 13.4,
+                    "objectiveKillsAvgPer10Min": 0,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0
+                }
+            },
+            "junkrat": {
+                "combat": {
+                    "allDamageDone": 211920,
+                    "barrierDamageDone": 61467,
+                    "deaths": 188,
+                    "eliminations": 315,
+                    "environmentalKill": 1,
+                    "finalBlows": 192,
+                    "heroDamageDone": 79644,
+                    "meleeFinalBlow": 1,
+                    "multikills": 2,
+                    "objectiveKills": 123,
+                    "objectiveTime": 723,
+                    "quickMeleeAccuracy": 13,
+                    "soloKills": 66,
+                    "timeSpentOnFire": 515,
+                    "weaponAccuracy": 20
+                },
+                "game": {
+                    "gamesWon": 13,
+                    "timePlayed": 12703
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 20654,
+                    "allDamageDoneMostInLife": 7669,
+                    "barrierDamageDoneMostInGame": 10577,
+                    "eliminationsMostInGame": 33,
+                    "eliminationsMostInLife": 14,
+                    "finalBlowsMostInGame": 15,
+                    "heroDamageDoneMostInGame": 9878,
+                    "heroDamageDoneMostInLife": 5038,
+                    "killStreakBest": 14,
+                    "meleeFinalBlowMostInGame": 1,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 18,
+                    "objectiveTimeMostInGame": 86,
+                    "soloKillsMostInGame": 9,
+                    "timeSpentOnFireMostInGame": 328,
+                    "weaponAccuracyBestInGame": 45
+                },
+                "heroSpecific": {
+                    "concussionMineKills": 60,
+                    "concussionMineKillsAvgPer10Min": 0,
+                    "concussionMineKillsMostInGame": 14,
+                    "enemiesTrapped": 73,
+                    "enemiesTrappedAvgPer10Min": 0.01,
+                    "enemiesTrappedMostInGame": 6,
+                    "riptireKills": 43,
+                    "riptireKillsAvgPer10Min": 0,
+                    "riptireKillsMostInGame": 5,
+                    "secondaryFireAccuracy": 20
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 6
+                },
+                "matchAwards": {
+                    "medalsBronze": 22,
+                    "medalsSilver": 22,
+                    "medalsGold": 27,
+                    "medals": 71,
+                    "cards": 7
+                },
+                "assists": {
+                    "offensiveAssists": 13,
+                    "offensiveAssistsAvgPer10Min": 0,
+                    "offensiveAssistsMostInGame": 4
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 16.68,
+                    "barrierDamageDoneAvgPer10Min": 9.64,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.68,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 12.49,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0.01,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "lucio": {
+                "combat": {
+                    "allDamageDone": 503220,
+                    "barrierDamageDone": 125839,
+                    "criticalHitAccuracy": 7,
+                    "criticalHits": 1645,
+                    "deaths": 1014,
+                    "eliminations": 1487,
+                    "environmentalKills": 17,
+                    "finalBlows": 342,
+                    "heroDamageDone": 262494,
+                    "meleeFinalBlows": 20,
+                    "multikills": 2,
+                    "objectiveKills": 733,
+                    "objectiveTime": 10295,
+                    "quickMeleeAccuracy": 32,
+                    "soloKills": 48,
+                    "timeSpentOnFire": 4926,
+                    "weaponAccuracy": 28
+                },
+                "game": {
+                    "gamesWon": 73,
+                    "timePlayed": 70906
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 7961,
+                    "allDamageDoneMostInLife": 3358,
+                    "barrierDamageDoneMostInGame": 5596,
+                    "criticalHitsMostInGame": 38,
+                    "criticalHitsMostInLife": 19,
+                    "eliminationsMostInGame": 31,
+                    "eliminationsMostInLife": 13,
+                    "finalBlowsMostInGame": 12,
+                    "heroDamageDoneMostInGame": 5081,
+                    "heroDamageDoneMostInLife": 2655,
+                    "killStreakBest": 13,
+                    "meleeFinalBlowMostInGame": 1,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 18,
+                    "objectiveTimeMostInGame": 227,
+                    "soloKillsMostInGame": 3,
+                    "timeSpentOnFireMostInGame": 479,
+                    "weaponAccuracyBestInGame": 100
+                },
+                "heroSpecific": {
+                    "secondaryFireAccuracy": 28,
+                    "selfHealing": 233648,
+                    "selfHealingAvgPer10Min": 3.3,
+                    "selfHealingMostInGame": 3367,
+                    "soundBarriersProvided": 1071,
+                    "soundBarriersProvidedAvgPer10Min": 0.02,
+                    "soundBarriersProvidedMostInGame": 21
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 119
+                },
+                "matchAwards": {
+                    "medalsBronze": 77,
+                    "medalsSilver": 112,
+                    "medalsGold": 209,
+                    "medals": 398,
+                    "cards": 68
+                },
+                "assists": {
+                    "defensiveAssists": 883,
+                    "defensiveAssistsAvgPer10Min": 0.01,
+                    "defensiveAssistsMostInGame": 23,
+                    "healingDone": 840064,
+                    "healingDoneAvgPer10Min": 11.85,
+                    "healingDoneMostInGame": 12991,
+                    "offensiveAssists": 119,
+                    "offensiveAssistsAvgPer10Min": 0,
+                    "offensiveAssistsMostInGame": 7
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 7.1,
+                    "barrierDamageDoneAvgPer10Min": 2.31,
+                    "criticalHitsAvgPer10Min": 0.02,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.47,
+                    "finalBlowsAvgPer10Min": 0,
+                    "heroDamageDoneAvgPer10Min": 4.81,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "mccree": {
+                "combat": {
+                    "allDamageDone": 729936,
+                    "barrierDamageDone": 163546,
+                    "criticalHitAccuracy": 11,
+                    "criticalHits": 904,
+                    "deaths": 629,
+                    "eliminations": 1662,
+                    "finalBlows": 990,
+                    "heroDamageDone": 503936,
+                    "meleeFinalBlows": 9,
+                    "multikills": 10,
+                    "objectiveKills": 644,
+                    "objectiveTime": 4634,
+                    "quickMeleeAccuracy": 14,
+                    "soloKills": 198,
+                    "timeSpentOnFire": 7410,
+                    "weaponAccuracy": 42
+                },
+                "game": {
+                    "gamesWon": 51,
+                    "timePlayed": 45303
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 14820,
+                    "allDamageDoneMostInLife": 9069,
+                    "barrierDamageDoneMostInGame": 6648,
+                    "criticalHitsMostInGame": 22,
+                    "criticalHitsMostInLife": 18,
+                    "eliminationsMostInGame": 36,
+                    "eliminationsMostInLife": 18,
+                    "finalBlowsMostInGame": 23,
+                    "heroDamageDoneMostInGame": 11162,
+                    "heroDamageDoneMostInLife": 5962,
+                    "killStreakBest": 18,
+                    "meleeFinalBlowMostInGame": 1,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 22,
+                    "objectiveTimeMostInGame": 211,
+                    "soloKillsMostInGame": 8,
+                    "timeSpentOnFireMostInGame": 394,
+                    "weaponAccuracyBestInGame": 65
+                },
+                "heroSpecific": {
+                    "deadeyeKills": 176,
+                    "deadeyeKillsAvgPer10Min": 0,
+                    "deadeyeKillsMostInGame": 7,
+                    "fanTheHammerKills": 172,
+                    "fanTheHammerKillsAvgPer10Min": 0,
+                    "fanTheHammerKillsMostInGame": 7,
+                    "secondaryFireAccuracy": 42
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 2,
+                    "turretsDestroyed": 50
+                },
+                "matchAwards": {
+                    "medalsBronze": 71,
+                    "medalsSilver": 84,
+                    "medalsGold": 122,
+                    "medals": 276,
+                    "cards": 35
+                },
+                "assists": {
+                    "offensiveAssistsMostInGame": 4
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 16.11,
+                    "barrierDamageDoneAvgPer10Min": 3.96,
+                    "criticalHitsAvgPer10Min": 0.02,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.04,
+                    "eliminationsPerLife": 2.64,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 12.2,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "mei": {
+                "combat": {
+                    "allDamageDone": 66296,
+                    "barrierDamageDone": 735,
+                    "criticalHitAccuracy": 12,
+                    "criticalHits": 68,
+                    "deaths": 117,
+                    "eliminations": 210,
+                    "finalBlows": 67,
+                    "heroDamageDone": 3013,
+                    "multikills": 2,
+                    "objectiveKills": 95,
+                    "objectiveTime": 744,
+                    "soloKills": 19,
+                    "timeSpentOnFire": 393,
+                    "weaponAccuracy": 27
+                },
+                "game": {
+                    "gamesWon": 8,
+                    "timePlayed": 8780
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 8756,
+                    "allDamageDoneMostInLife": 5237,
+                    "barrierDamageDoneMostInGame": 375,
+                    "criticalHitsMostInGame": 9,
+                    "criticalHitsMostInLife": 4,
+                    "eliminationsMostInGame": 23,
+                    "eliminationsMostInLife": 15,
+                    "finalBlowsMostInGame": 9,
+                    "heroDamageDoneMostInGame": 2268,
+                    "heroDamageDoneMostInLife": 1251,
+                    "killStreakBest": 15,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 15,
+                    "objectiveTimeMostInGame": 143,
+                    "soloKillsMostInGame": 3,
+                    "weaponAccuracyBestInGame": 71
+                },
+                "heroSpecific": {
+                    "blizzardKills": 58,
+                    "blizzardKillsAvgPer10Min": 0.01,
+                    "blizzardKillsMostInGame": 9,
+                    "damageBlocked": 19282,
+                    "damageBlockedAvgPer10Min": 2.2,
+                    "damageBlockedMostInGame": 4065,
+                    "enemiesFrozen": 143,
+                    "enemiesFrozenAvgPer10Min": 0.02,
+                    "enemiesFrozenMostInGame": 18,
+                    "secondaryFireAccuracy": 27,
+                    "selfHealing": 11942,
+                    "selfHealingAvgPer10Min": 1.36,
+                    "selfHealingMostInGame": 1422
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 5
+                },
+                "matchAwards": {
+                    "medalsBronze": 13,
+                    "medalsSilver": 19,
+                    "medalsGold": 17,
+                    "medals": 50,
+                    "cards": 6
+                },
+                "assists": {
+                    "offensiveAssists": 8,
+                    "offensiveAssistsAvgPer10Min": 0,
+                    "offensiveAssistsMostInGame": 7
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 7.55,
+                    "barrierDamageDoneAvgPer10Min": 1.06,
+                    "criticalHitsAvgPer10Min": 0.01,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.79,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 4.33,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "mercy": {
+                "combat": {
+                    "allDamageDone": 21592,
+                    "barrierDamageDone": 2134,
+                    "criticalHitAccuracy": 11,
+                    "criticalHits": 104,
+                    "deaths": 1065,
+                    "eliminations": 92,
+                    "finalBlows": 30,
+                    "heroDamageDone": 7585,
+                    "meleeFinalBlows": 2,
+                    "objectiveKills": 34,
+                    "objectiveTime": 6633,
+                    "quickMeleeAccuracy": 6,
+                    "soloKills": 4,
+                    "timeSpentOnFire": 3564,
+                    "weaponAccuracy": 20
+                },
+                "game": {
+                    "gamesWon": 59,
+                    "timePlayed": 78037
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 1230,
+                    "allDamageDoneMostInLife": 1005,
+                    "barrierDamageDoneMostInGame": 861,
+                    "criticalHitsMostInGame": 8,
+                    "criticalHitsMostInLife": 5,
+                    "eliminationsMostInGame": 4,
+                    "eliminationsMostInLife": 3,
+                    "finalBlowsMostInGame": 2,
+                    "heroDamageDoneMostInGame": 540,
+                    "heroDamageDoneMostInLife": 378,
+                    "killStreakBest": 3,
+                    "meleeFinalBlowMostInGame": 1,
+                    "objectiveKillsMostInGame": 2,
+                    "objectiveTimeMostInGame": 183,
+                    "soloKillMostInGame": 1,
+                    "timeSpentOnFireMostInGame": 100,
+                    "weaponAccuracyBestInGame": 100
+                },
+                "heroSpecific": {
+                    "blasterKills": 90,
+                    "blasterKillsAvgPer10Min": 0,
+                    "blasterKillsMostInGame": 4,
+                    "damageAmplified": 44446,
+                    "damageAmplifiedAvgPer10Min": 0.57,
+                    "damageAmplifiedMostInGame": 1387,
+                    "playersResurrected": 651,
+                    "playersResurrectedAvgPer10Min": 0.01,
+                    "playersResurrectedMostInGame": 12,
+                    "secondaryFireAccuracy": 20,
+                    "selfHealing": 154582,
+                    "selfHealingAvgPer10Min": 1.98,
+                    "selfHealingMostInGame": 2296
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 17
+                },
+                "matchAwards": {
+                    "medalsBronze": 46,
+                    "medalsSilver": 54,
+                    "medalsGold": 161,
+                    "medals": 261,
+                    "cards": 86
+                },
+                "assists": {
+                    "defensiveAssists": 1781,
+                    "defensiveAssistsAvgPer10Min": 0.02,
+                    "defensiveAssistsMostInGame": 34,
+                    "healingDone": 1045286,
+                    "healingDoneAvgPer10Min": 13.39,
+                    "healingDoneMostInGame": 14925,
+                    "offensiveAssists": 743,
+                    "offensiveAssistsAvgPer10Min": 0.01,
+                    "offensiveAssistsMostInGame": 17
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 0.28,
+                    "barrierDamageDoneAvgPer10Min": 0.04,
+                    "criticalHitsAvgPer10Min": 0,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0,
+                    "eliminationsPerLife": 0.09,
+                    "finalBlowsAvgPer10Min": 0,
+                    "heroDamageDoneAvgPer10Min": 0.14,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "moira": {
+                "combat": {
+                    "allDamageDone": 1390227,
+                    "barrierDamageDone": 174075,
+                    "deaths": 1556,
+                    "eliminations": 5245,
+                    "finalBlows": 1542,
+                    "heroDamageDone": 1191493,
+                    "meleeFinalBlows": 55,
+                    "multikills": 65,
+                    "objectiveKills": 2544,
+                    "objectiveTime": 21062,
+                    "quickMeleeAccuracy": 26,
+                    "soloKills": 207,
+                    "timeSpentOnFire": 17945
+                },
+                "game": {
+                    "gamesWon": 167,
+                    "timePlayed": 148825
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 10585,
+                    "allDamageDoneMostInLife": 5794,
+                    "barrierDamageDoneMostInGame": 2280,
+                    "eliminationsMostInGame": 46,
+                    "eliminationsMostInLife": 23,
+                    "finalBlowsMostInGame": 16,
+                    "heroDamageDoneMostInGame": 9828,
+                    "heroDamageDoneMostInLife": 5222,
+                    "killStreakBest": 23,
+                    "meleeFinalBlowsMostInGame": 2,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 31,
+                    "objectiveTimeMostInGame": 263,
+                    "soloKillsMostInGame": 5,
+                    "timeSpentOnFireMostInGame": 376
+                },
+                "miscellaneous": {
+                    "teleporterPadDestroyed": 1,
+                    "turretsDestroyed": 162
+                },
+                "matchAwards": {
+                    "medalsBronze": 242,
+                    "medalsSilver": 306,
+                    "medalsGold": 651,
+                    "medals": 1199,
+                    "cards": 208
+                },
+                "assists": {
+                    "defensiveAssists": 3511,
+                    "defensiveAssistsAvgPer10Min": 0.02,
+                    "defensiveAssistsMostInGame": 30,
+                    "healingDone": 2184965,
+                    "healingDoneAvgPer10Min": 14.68,
+                    "healingDoneMostInGame": 16591
+                },
+                "heroSpecific": {
+                    "coalescenceHealing": 300924,
+                    "coalescenceHealingAvgPer10Min": 2.02,
+                    "coalescenceHealingMostInGame": 3531,
+                    "coalescenceKills": 1242,
+                    "coalescenceKillsAvgPer10Min": 0.01,
+                    "coalescenceKillsMostInGame": 14,
+                    "secondaryFireAccuracy": 62,
+                    "selfHealing": 432334,
+                    "selfHealingAvgPer10Min": 2.9,
+                    "selfHealingMostInGame": 4022
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 9.34,
+                    "barrierDamageDoneAvgPer10Min": 1.17,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.04,
+                    "eliminationsPerLife": 3.37,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 8.01,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "orisa": {
+                "combat": {
+                    "allDamageDone": 570533,
+                    "barrierDamageDone": 205268,
+                    "deaths": 474,
+                    "eliminations": 1077,
+                    "finalBlows": 338,
+                    "heroDamageDone": 319930,
+                    "meleeFinalBlows": 10,
+                    "multikills": 10,
+                    "objectiveKills": 504,
+                    "objectiveTime": 3537,
+                    "quickMeleeAccuracy": 15,
+                    "soloKills": 32,
+                    "timeSpentOnFire": 2939,
+                    "weaponAccuracy": 28
+                },
+                "game": {
+                    "gamesWon": 41,
+                    "timePlayed": 37337
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 14382,
+                    "allDamageDoneMostInLife": 10594,
+                    "barrierDamageDoneMostInGame": 9555,
+                    "eliminationsMostInGame": 28,
+                    "eliminationsMostInLife": 22,
+                    "finalBlowsMostInGame": 11,
+                    "heroDamageDoneMostInGame": 7225,
+                    "heroDamageDoneMostInLife": 4306,
+                    "killStreakBest": 22,
+                    "meleeFinalBlowMostInGame": 1,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 17,
+                    "objectiveTimeMostInGame": 299,
+                    "soloKillsMostInGame": 2,
+                    "timeSpentOnFireMostInGame": 322,
+                    "weaponAccuracyBestInGame": 84
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 32
+                },
+                "matchAwards": {
+                    "medalsBronze": 72,
+                    "medalsSilver": 85,
+                    "medalsGold": 103,
+                    "medals": 259,
+                    "cards": 44
+                },
+                "assists": {
+                    "offensiveAssists": 470,
+                    "offensiveAssistsAvgPer10Min": 0.01,
+                    "offensiveAssistsMostInGame": 17
+                },
+                "heroSpecific": {
+                    "damageAmplified": 27889,
+                    "damageAmplifiedAvgPer10Min": 0.75,
+                    "damageAmplifiedMostInGame": 1613,
+                    "damageBlocked": 1047943,
+                    "damageBlockedAvgPer10Min": 28.07,
+                    "damageBlockedMostInGame": 30655,
+                    "secondaryFireAccuracy": 28,
+                    "superchargerAssists": 292,
+                    "superchargerAssistsAvgPer10Min": 0.01,
+                    "superchargerAssistsMostInGame": 22
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 15.28,
+                    "barrierDamageDoneAvgPer10Min": 5.85,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.27,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 9.12,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "pharah": {
+                "combat": {
+                    "allDamageDone": 219512,
+                    "barrierDamageDone": 9944,
+                    "deaths": 227,
+                    "eliminations": 397,
+                    "environmentalKills": 6,
+                    "finalBlows": 242,
+                    "heroDamageDone": 35933,
+                    "multikills": 3,
+                    "objectiveKills": 162,
+                    "objectiveTime": 1051,
+                    "soloKills": 68,
+                    "timeSpentOnFire": 1147,
+                    "weaponAccuracy": 45
+                },
+                "game": {
+                    "gamesWon": 19,
+                    "timePlayed": 16012
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 14225,
+                    "allDamageDoneMostInLife": 6779,
+                    "barrierDamageDoneMostInGame": 3258,
+                    "eliminationsMostInGame": 24,
+                    "eliminationsMostInLife": 17,
+                    "finalBlowsMostInGame": 15,
+                    "heroDamageDoneMostInGame": 7764,
+                    "heroDamageDoneMostInLife": 3921,
+                    "killStreakBest": 17,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 15,
+                    "objectiveTimeMostInGame": 102,
+                    "soloKillsMostInGame": 8,
+                    "timeSpentOnFireMostInGame": 226,
+                    "weaponAccuracyBestInGame": 60
+                },
+                "heroSpecific": {
+                    "barrageKills": 57,
+                    "barrageKillsAvgPer10Min": 0,
+                    "barrageKillsMostInGame": 6,
+                    "directHitAccuracy": 23,
+                    "rocketDirectHits": 1091,
+                    "rocketDirectHitsAvgPer10Min": 0.07,
+                    "rocketDirectHitsMostInGame": 70,
+                    "secondaryFireAccuracy": 45
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 66
+                },
+                "matchAwards": {
+                    "medalsBronze": 29,
+                    "medalsSilver": 33,
+                    "medalsGold": 45,
+                    "medals": 106,
+                    "cards": 13
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 13.71,
+                    "barrierDamageDoneAvgPer10Min": 3.23,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.75,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 11.67,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "reaper": {
+                "combat": {
+                    "allDamageDone": 93701,
+                    "barrierDamageDone": 12664,
+                    "criticalHitAccuracy": 10,
+                    "criticalHits": 1263,
+                    "deaths": 86,
+                    "eliminations": 223,
+                    "finalBlows": 123,
+                    "heroDamageDone": 20369,
+                    "meleeFinalBlows": 6,
+                    "multikills": 2,
+                    "objectiveKills": 98,
+                    "objectiveTime": 695,
+                    "quickMeleeAccuracy": 50,
+                    "soloKills": 36,
+                    "timeSpentOnFire": 601,
+                    "weaponAccuracy": 24
+                },
+                "game": {
+                    "gamesWon": 6,
+                    "timePlayed": 6463
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 11112,
+                    "allDamageDoneMostInLife": 5328,
+                    "barrierDamageDoneMostInGame": 2430,
+                    "criticalHitsMostInGame": 148,
+                    "criticalHitsMostInLife": 100,
+                    "eliminationsMostInGame": 34,
+                    "eliminationsMostInLife": 11,
+                    "finalBlowsMostInGame": 21,
+                    "heroDamageDoneMostInGame": 4534,
+                    "heroDamageDoneMostInLife": 3396,
+                    "killStreakBest": 11,
+                    "meleeFinalBlowMostInGame": 1,
+                    "multikillBest": 3,
+                    "objectiveKillsMostInGame": 24,
+                    "objectiveTimeMostInGame": 160,
+                    "soloKillsMostInGame": 7,
+                    "timeSpentOnFireMostInGame": 49,
+                    "weaponAccuracyBestInGame": 50
+                },
+                "heroSpecific": {
+                    "deathBlossomKills": 30,
+                    "deathBlossomKillsAvgPer10Min": 0,
+                    "deathBlossomKillsMostInGame": 6,
+                    "secondaryFireAccuracy": 24,
+                    "selfHealing": 6101,
+                    "selfHealingAvgPer10Min": 0.94,
+                    "selfHealingMostInGame": 730
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 4
+                },
+                "matchAwards": {
+                    "medalsBronze": 10,
+                    "medalsSilver": 20,
+                    "medalsGold": 23,
+                    "medals": 53,
+                    "cards": 6
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 14.5,
+                    "barrierDamageDoneAvgPer10Min": 6.64,
+                    "criticalHitsAvgPer10Min": 0.2,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.59,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 10.69,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0.01,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "reinhardt": {
+                "combat": {
+                    "allDamageDone": 6736603,
+                    "barrierDamageDone": 495692,
+                    "deaths": 8801,
+                    "eliminations": 15992,
+                    "environmentalKills": 65,
+                    "finalBlows": 8849,
+                    "heroDamageDone": 2045199,
+                    "multikills": 233,
+                    "objectiveKills": 6846,
+                    "objectiveTime": 111480,
+                    "soloKills": 1536,
+                    "timeSpentOnFire": 74808
+                },
+                "game": {
+                    "gamesWon": 885,
+                    "timePlayed": 684789
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 17115,
+                    "allDamageDoneMostInLife": 8976,
+                    "barrierDamageDoneMostInGame": 4187,
+                    "eliminationsMostInGame": 37,
+                    "eliminationsMostInLife": 31,
+                    "finalBlowsMostInGame": 21,
+                    "heroDamageDoneMostInGame": 12514,
+                    "heroDamageDoneMostInLife": 7726,
+                    "killStreakBest": 31,
+                    "multikillBest": 6,
+                    "objectiveKillsMostInGame": 18,
+                    "objectiveTimeMostInGame": 345,
+                    "soloKillsMostInGame": 11,
+                    "timeSpentOnFireMostInGame": 547
+                },
+                "heroSpecific": {
+                    "chargeKills": 2600,
+                    "chargeKillsAvgPer10Min": 0,
+                    "chargeKillsMostInGame": 8,
+                    "damageBlocked": 17770722,
+                    "damageBlockedAvgPer10Min": 25.95,
+                    "damageBlockedMostInGame": 35059,
+                    "earthshatterKills": 3313,
+                    "earthshatterKillsAvgPer10Min": 0,
+                    "earthshatterKillsMostInGame": 12,
+                    "fireStrikeKills": 6579,
+                    "fireStrikeKillsAvgPer10Min": 0.01,
+                    "fireStrikeKillsMostInGame": 17,
+                    "rocketHammerMeleeAccuracy": 45
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 25,
+                    "turretsDestroyed": 781
+                },
+                "matchAwards": {
+                    "medalsBronze": 1032,
+                    "medalsSilver": 1125,
+                    "medalsGold": 1664,
+                    "medals": 3822,
+                    "cards": 893
+                },
+                "assists": {
+                    "offensiveAssists": 946,
+                    "offensiveAssistsAvgPer10Min": 0,
+                    "offensiveAssistsMostInGame": 8
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 9.84,
+                    "barrierDamageDoneAvgPer10Min": 2.21,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.82,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 9.13,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "roadhog": {
+                "combat": {
+                    "allDamageDone": 3191244,
+                    "barrierDamageDone": 915883,
+                    "criticalHitAccuracy": 15,
+                    "criticalHits": 39002,
+                    "deaths": 2316,
+                    "eliminations": 6504,
+                    "environmentalKills": 109,
+                    "finalBlows": 3077,
+                    "heroDamageDone": 1551221,
+                    "meleeFinalBlows": 111,
+                    "multikills": 27,
+                    "objectiveKills": 3055,
+                    "objectiveTime": 32225,
+                    "quickMeleeAccuracy": 35,
+                    "soloKills": 487,
+                    "timeSpentOnFire": 22333,
+                    "weaponAccuracy": 23
+                },
+                "game": {
+                    "gamesWon": 206,
+                    "timePlayed": 201390
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 22358,
+                    "allDamageDoneMostInLife": 11675,
+                    "barrierDamageDoneMostInGame": 15015,
+                    "criticalHitsMostInGame": 310,
+                    "criticalHitsMostInLife": 154,
+                    "eliminationsMostInGame": 51,
+                    "eliminationsMostInLife": 22,
+                    "finalBlowsMostInGame": 27,
+                    "heroDamageDoneMostInGame": 13968,
+                    "heroDamageDoneMostInLife": 10292,
+                    "killStreakBest": 22,
+                    "meleeFinalBlowsMostInGame": 4,
+                    "multikillBest": 5,
+                    "objectiveKillsMostInGame": 27,
+                    "objectiveTimeMostInGame": 335,
+                    "soloKillsMostInGame": 10,
+                    "timeSpentOnFireMostInGame": 527,
+                    "weaponAccuracyBestInGame": 69
+                },
+                "heroSpecific": {
+                    "enemiesHooked": 4967,
+                    "enemiesHookedAvgPer10Min": 0.02,
+                    "enemiesHookedMostInGame": 35,
+                    "hookAccuracy": 50,
+                    "hookAccuracyBestInGame": 100,
+                    "hooksAttempted": 9977,
+                    "secondaryFireAccuracy": 23,
+                    "selfHealing": 1301550,
+                    "selfHealingAvgPer10Min": 6.46,
+                    "selfHealingMostInGame": 8055,
+                    "wholeHogKills": 930,
+                    "wholeHogKillsAvgPer10Min": 0,
+                    "wholeHogKillsMostInGame": 10
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 14,
+                    "turretsDestroyed": 282
+                },
+                "matchAwards": {
+                    "medalsBronze": 509,
+                    "medalsSilver": 564,
+                    "medalsGold": 639,
+                    "medals": 1711,
+                    "cards": 179
+                },
+                "assists": {
+                    "offensiveAssists": 1457,
+                    "offensiveAssistsAvgPer10Min": 0.01,
+                    "offensiveAssistsMostInGame": 21
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 15.85,
+                    "barrierDamageDoneAvgPer10Min": 6.24,
+                    "criticalHitsAvgPer10Min": 0.19,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.81,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 10.56,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "soldier-76": {
+                "combat": {
+                    "allDamageDone": 1454471,
+                    "barrierDamageDone": 260143,
+                    "criticalHitAccuracy": 7,
+                    "criticalHits": 3724,
+                    "deaths": 1125,
+                    "eliminations": 2970,
+                    "environmentalKills": 4,
+                    "finalBlows": 1527,
+                    "heroDamageDone": 670791,
+                    "meleeFinalBlows": 22,
+                    "multikills": 28,
+                    "objectiveKills": 1290,
+                    "objectiveTime": 7662,
+                    "quickMeleeAccuracy": 23,
+                    "soloKills": 278,
+                    "timeSpentOnFire": 11968,
+                    "weaponAccuracy": 35
+                },
+                "game": {
+                    "gamesWon": 88,
+                    "timePlayed": 78276
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 20437,
+                    "allDamageDoneMostInLife": 15136,
+                    "barrierDamageDoneMostInGame": 8171,
+                    "criticalHitsMostInGame": 64,
+                    "criticalHitsMostInLife": 34,
+                    "eliminationsMostInGame": 42,
+                    "eliminationsMostInLife": 22,
+                    "finalBlowsMostInGame": 25,
+                    "heroDamageDoneMostInGame": 14511,
+                    "heroDamageDoneMostInLife": 8801,
+                    "killStreakBest": 22,
+                    "meleeFinalBlowsMostInGame": 3,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 25,
+                    "objectiveTimeMostInGame": 194,
+                    "soloKillsMostInGame": 9,
+                    "timeSpentOnFireMostInGame": 519,
+                    "weaponAccuracyBestInGame": 71
+                },
+                "heroSpecific": {
+                    "bioticFieldHealingDone": 185716,
+                    "bioticFieldsDeployed": 1758,
+                    "helixRocketsKills": 937,
+                    "helixRocketsKillsAvgPer10Min": 0.01,
+                    "helixRocketsKillsMostInGame": 15,
+                    "secondaryFireAccuracy": 35,
+                    "selfHealing": 107185,
+                    "selfHealingAvgPer10Min": 1.37,
+                    "selfHealingMostInGame": 1525,
+                    "tacticalVisorKills": 563,
+                    "tacticalVisorKillsAvgPer10Min": 0.01,
+                    "tacticalVisorKillsMostInGame": 11
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 5,
+                    "turretsDestroyed": 121
+                },
+                "matchAwards": {
+                    "medalsBronze": 188,
+                    "medalsSilver": 204,
+                    "medalsGold": 283,
+                    "medals": 675,
+                    "cards": 80
+                },
+                "assists": {
+                    "defensiveAssists": 254,
+                    "defensiveAssistsAvgPer10Min": 0,
+                    "defensiveAssistsMostInGame": 10,
+                    "healingDone": 185716,
+                    "healingDoneAvgPer10Min": 2.37,
+                    "healingDoneMostInGame": 3125
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 18.58,
+                    "barrierDamageDoneAvgPer10Min": 5.87,
+                    "criticalHitsAvgPer10Min": 0.05,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.04,
+                    "eliminationsPerLife": 2.64,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 15.15,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "sombra": {
+                "combat": {
+                    "allDamageDone": 6845,
+                    "barrierDamageDone": 615,
+                    "criticalHitAccuracy": 8,
+                    "criticalHits": 72,
+                    "deaths": 10,
+                    "eliminations": 21,
+                    "finalBlows": 8,
+                    "heroDamageDone": 5252,
+                    "meleeFinalBlow": 1,
+                    "objectiveKills": 9,
+                    "objectiveTime": 87,
+                    "quickMeleeAccuracy": 29,
+                    "soloKill": 1,
+                    "timeSpentOnFire": 134,
+                    "weaponAccuracy": 36
+                },
+                "game": {
+                    "gamesWon": 0,
+                    "timePlayed": 828
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 3496,
+                    "allDamageDoneMostInLife": 2340,
+                    "barrierDamageDoneMostInGame": 615,
+                    "eliminationsMostInGame": 14,
+                    "eliminationsMostInLife": 9,
+                    "finalBlowsMostInGame": 5,
+                    "heroDamageDoneMostInGame": 2879,
+                    "heroDamageDoneMostInLife": 1770,
+                    "killStreakBest": 9,
+                    "meleeFinalBlowMostInGame": 1,
+                    "objectiveKillsMostInGame": 6,
+                    "objectiveTimeMostInGame": 51,
+                    "soloKillMostInGame": 1,
+                    "timeSpentOnFireMostInGame": 134,
+                    "weaponAccuracyBestInGame": 48
+                },
+                "matchAwards": {
+                    "medalsBronze": 1,
+                    "medalsSilver": 2,
+                    "medalsGold": 0,
+                    "medals": 4
+                },
+                "assists": {
+                    "offensiveAssists": 7,
+                    "offensiveAssistsAvgPer10Min": 0.01,
+                    "offensiveAssistsMostInGame": 6
+                },
+                "heroSpecific": {
+                    "enemiesEmp'd": 17,
+                    "enemiesEmp'dAvgPer10Min": 0.02,
+                    "enemiesEmp'dMostInGame": 9,
+                    "enemiesHacked": 30,
+                    "enemiesHackedAvgPer10Min": 0.04,
+                    "enemiesHackedMostInGame": 18,
+                    "secondaryFireAccuracy": 36
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 8.26,
+                    "barrierDamageDoneAvgPer10Min": 0.83,
+                    "criticalHitsAvgPer10Min": 0.09,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.1,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 7.11,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "symmetra": {
+                "combat": {
+                    "allDamageDone": 5186,
+                    "deaths": 17,
+                    "eliminations": 20,
+                    "finalBlows": 7,
+                    "heroDamageDone": 2150,
+                    "objectiveKills": 6,
+                    "objectiveTime": 42,
+                    "soloKills": 3,
+                    "timeSpentOnFire": 49
+                },
+                "game": {
+                    "gamesWon": 1,
+                    "timePlayed": 1018
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 2318,
+                    "allDamageDoneMostInLife": 1489,
+                    "eliminationsMostInGame": 9,
+                    "eliminationsMostInLife": 4,
+                    "finalBlowsMostInGame": 3,
+                    "heroDamageDoneMostInGame": 1858,
+                    "heroDamageDoneMostInLife": 1489,
+                    "killStreakBest": 4,
+                    "objectiveKillsMostInGame": 4,
+                    "objectiveTimeMostInGame": 37,
+                    "soloKillMostInGame": 1
+                },
+                "heroSpecific": {
+                    "damageBlocked": 899,
+                    "damageBlockedAvgPer10Min": 0.88,
+                    "damageBlockedMostInGame": 699,
+                    "playersTeleported": 18,
+                    "playersTeleportedAvgPer10Min": 0.02,
+                    "playersTeleportedMostInGame": 12,
+                    "primaryFireAccuracy": 44,
+                    "sentryTurretKills": 9,
+                    "sentryTurretKillsAvgPer10Min": 0.01,
+                    "sentryTurretKillsMostInGame": 3
+                },
+                "matchAwards": {
+                    "medalsBronze": 2,
+                    "medalsSilver": 1,
+                    "medalsGold": 3,
+                    "medals": 5
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 5.09,
+                    "deathsAvgPer10Min": 0.02,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.18,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 5.36,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "torbjorn": {
+                "combat": {
+                    "allDamageDone": 24976,
+                    "criticalHitAccuracy": 2,
+                    "criticalHits": 10,
+                    "deaths": 23,
+                    "eliminations": 54,
+                    "finalBlows": 21,
+                    "objectiveKills": 17,
+                    "objectiveTime": 32,
+                    "soloKills": 3,
+                    "weaponAccuracy": 34
+                },
+                "game": {
+                    "gamesWon": 3,
+                    "timePlayed": 2039
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 8560,
+                    "allDamageDoneMostInLife": 4245,
+                    "criticalHitMostInLife": 1,
+                    "criticalHitsMostInGame": 3,
+                    "eliminationsMostInGame": 18,
+                    "eliminationsMostInLife": 8,
+                    "finalBlowsMostInGame": 10,
+                    "killStreakBest": 8,
+                    "objectiveKillsMostInGame": 8,
+                    "objectiveTimeMostInGame": 15,
+                    "soloKillsMostInGame": 2,
+                    "weaponAccuracyBestInGame": 42
+                },
+                "heroSpecific": {
+                    "armorPacksCreated": 42,
+                    "armorPacksCreatedAvgPer10Min": 0.02,
+                    "moltenCoreKills": 8,
+                    "moltenCoreKillsAvgPer10Min": 0,
+                    "moltenCoreKillsMostInGame": 4,
+                    "secondaryFireAccuracy": 34,
+                    "torbjornKills": 18,
+                    "torbjornKillsAvgPer10Min": 0.01,
+                    "torbjornKillsMostInGame": 7,
+                    "turretKills": 45,
+                    "turretKillsAvgPer10Min": 0.02
+                },
+                "matchAwards": {
+                    "medalsBronze": 3,
+                    "medalsSilver": 4,
+                    "medals": 8
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 12.25,
+                    "criticalHitsAvgPer10Min": 0,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.35,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0
+                }
+            },
+            "tracer": {
+                "combat": {
+                    "allDamageDone": 519713,
+                    "barrierDamageDone": 86034,
+                    "criticalHitAccuracy": 11,
+                    "criticalHits": 7783,
+                    "deaths": 648,
+                    "eliminations": 1454,
+                    "finalBlows": 719,
+                    "heroDamageDone": 391332,
+                    "meleeFinalBlows": 35,
+                    "multikills": 11,
+                    "objectiveKills": 612,
+                    "objectiveTime": 4402,
+                    "quickMeleeAccuracy": 35,
+                    "soloKills": 167,
+                    "timeSpentOnFire": 3518,
+                    "weaponAccuracy": 31
+                },
+                "game": {
+                    "gamesWon": 40,
+                    "timePlayed": 42913
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 12686,
+                    "allDamageDoneMostInLife": 5441,
+                    "barrierDamageDoneMostInGame": 4092,
+                    "criticalHitsMostInGame": 203,
+                    "criticalHitsMostInLife": 89,
+                    "eliminationsMostInGame": 35,
+                    "eliminationsMostInLife": 17,
+                    "finalBlowsMostInGame": 21,
+                    "heroDamageDoneMostInGame": 10761,
+                    "heroDamageDoneMostInLife": 4509,
+                    "killStreakBest": 17,
+                    "meleeFinalBlowsMostInGame": 2,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 21,
+                    "objectiveTimeMostInGame": 137,
+                    "soloKillsMostInGame": 8,
+                    "timeSpentOnFireMostInGame": 364,
+                    "weaponAccuracyBestInGame": 50
+                },
+                "heroSpecific": {
+                    "healthRecovered": 42431,
+                    "healthRecoveredAvgPer10Min": 0.99,
+                    "healthRecoveredMostInGame": 1001,
+                    "pulseBombKills": 179,
+                    "pulseBombKillsAvgPer10Min": 0,
+                    "pulseBombKillsMostInGame": 9,
+                    "pulseBombsAttached": 108,
+                    "pulseBombsAttachedAvgPer10Min": 0,
+                    "pulseBombsAttachedMostInGame": 5,
+                    "secondaryFireAccuracy": 31,
+                    "selfHealing": 48152,
+                    "selfHealingAvgPer10Min": 1.12,
+                    "selfHealingMostInGame": 1001
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 52
+                },
+                "matchAwards": {
+                    "medalsBronze": 67,
+                    "medalsSilver": 79,
+                    "medalsGold": 116,
+                    "medals": 262,
+                    "cards": 26
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 12.11,
+                    "barrierDamageDoneAvgPer10Min": 2.26,
+                    "criticalHitsAvgPer10Min": 0.18,
+                    "deathsAvgPer10Min": 0.02,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.24,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 10.29,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "widowmaker": {
+                "combat": {
+                    "allDamageDone": 24378,
+                    "barrierDamageDone": 498,
+                    "criticalHitAccuracy": 11,
+                    "criticalHits": 67,
+                    "deaths": 48,
+                    "eliminations": 59,
+                    "finalBlows": 36,
+                    "heroDamageDone": 5675,
+                    "objectiveKills": 13,
+                    "objectiveTime": 51,
+                    "soloKills": 18,
+                    "timeSpentOnFire": 42,
+                    "weaponAccuracy": 29
+                },
+                "game": {
+                    "gamesWon": 1,
+                    "timePlayed": 3029
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 5142,
+                    "allDamageDoneMostInLife": 2061,
+                    "barrierDamageDoneMostInGame": 435,
+                    "criticalHitsMostInGame": 17,
+                    "criticalHitsMostInLife": 7,
+                    "eliminationsMostInGame": 16,
+                    "eliminationsMostInLife": 8,
+                    "finalBlowsMostInGame": 11,
+                    "heroDamageDoneMostInGame": 4707,
+                    "heroDamageDoneMostInLife": 1470,
+                    "killStreakBest": 8,
+                    "objectiveKillsMostInGame": 5,
+                    "objectiveTimeMostInGame": 19,
+                    "soloKillsMostInGame": 6,
+                    "timeSpentOnFireMostInGame": 37,
+                    "weaponAccuracyBestInGame": 45
+                },
+                "heroSpecific": {
+                    "scopedAccuracy": 41,
+                    "scopedAccuracyBestInGame": 100,
+                    "scopedCriticalHitAccuracy": 17,
+                    "scopedCriticalHits": 25,
+                    "scopedCriticalHitsAvgPer10Min": 0.01,
+                    "scopedCriticalHitsMostInGame": 12,
+                    "secondaryFireAccuracy": 29,
+                    "venomMineKillMostInGame": 1,
+                    "venomMineKills": 4,
+                    "venomMineKillsAvgPer10Min": 0
+                },
+                "assists": {
+                    "reconAssists": 5,
+                    "reconAssistsAvgPer10Min": 0,
+                    "reconAssistsMostInGame": 6
+                },
+                "miscellaneous": {
+                    "turretsDestroyed": 3
+                },
+                "matchAwards": {
+                    "medalsBronze": 7,
+                    "medalsSilver": 5,
+                    "medalsGold": 3,
+                    "medals": 16
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 8.05,
+                    "barrierDamageDoneAvgPer10Min": 0.78,
+                    "criticalHitsAvgPer10Min": 0.02,
+                    "deathsAvgPer10Min": 0.02,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.23,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 8.84,
+                    "objectiveKillsAvgPer10Min": 0,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0.01,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "winston": {
+                "combat": {
+                    "allDamageDone": 1405055,
+                    "barrierDamageDone": 113692,
+                    "deaths": 2324,
+                    "eliminations": 4888,
+                    "environmentalKills": 38,
+                    "finalBlows": 2166,
+                    "heroDamageDone": 816062,
+                    "meleeFinalBlows": 118,
+                    "multikills": 34,
+                    "objectiveKills": 1875,
+                    "objectiveTime": 20972,
+                    "quickMeleeAccuracy": 43,
+                    "soloKills": 435,
+                    "timeSpentOnFire": 9600
+                },
+                "game": {
+                    "gamesWon": 141,
+                    "timePlayed": 155110
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 10981,
+                    "allDamageDoneMostInLife": 6173,
+                    "barrierDamageDoneMostInGame": 2658,
+                    "eliminationsMostInGame": 40,
+                    "eliminationsMostInLife": 25,
+                    "finalBlowsMostInGame": 21,
+                    "heroDamageDoneMostInGame": 8020,
+                    "heroDamageDoneMostInLife": 5343,
+                    "killStreakBest": 25,
+                    "meleeFinalBlowsMostInGame": 4,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 26,
+                    "objectiveTimeMostInGame": 246,
+                    "soloKillsMostInGame": 10,
+                    "timeSpentOnFireMostInGame": 354
+                },
+                "heroSpecific": {
+                    "damageBlocked": 2263435,
+                    "damageBlockedAvgPer10Min": 14.59,
+                    "damageBlockedMostInGame": 15482,
+                    "jumpKills": 328,
+                    "jumpPackKills": 1066,
+                    "jumpPackKillsAvgPer10Min": 0.01,
+                    "jumpPackKillsMostInGame": 15,
+                    "meleeKills": 826,
+                    "meleeKillsAvgPer10Min": 0.01,
+                    "meleeKillsMostInGame": 12,
+                    "playersKnockedBack": 8507,
+                    "playersKnockedBackAvgPer10Min": 0.05,
+                    "playersKnockedBackMostInGame": 84,
+                    "primalRageKills": 530,
+                    "primalRageKillsAvgPer10Min": 0,
+                    "primalRageKillsMostInGame": 9,
+                    "primalRageMeleeAccuracy": 48,
+                    "teslaCannonAccuracy": 58,
+                    "weaponKills": 1140
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 7,
+                    "turretsDestroyed": 550
+                },
+                "matchAwards": {
+                    "medalsBronze": 298,
+                    "medalsSilver": 313,
+                    "medalsGold": 330,
+                    "medals": 940,
+                    "cards": 86
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 9.06,
+                    "barrierDamageDoneAvgPer10Min": 1.13,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.1,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 8.09,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "wreckingBall": {
+                "combat": {
+                    "allDamageDone": 7439,
+                    "barrierDamageDone": 1522,
+                    "deaths": 18,
+                    "eliminations": 22,
+                    "finalBlows": 10,
+                    "heroDamageDone": 5917,
+                    "meleeFinalBlow": 1,
+                    "objectiveKills": 12,
+                    "objectiveTime": 139,
+                    "quickMeleeAccuracy": 80,
+                    "soloKills": 2,
+                    "timeSpentOnFire": 16,
+                    "weaponAccuracy": 35
+                },
+                "game": {
+                    "gamesWon": 0,
+                    "timePlayed": 982
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 2358,
+                    "allDamageDoneMostInLife": 2004,
+                    "barrierDamageDoneMostInGame": 548,
+                    "eliminationsMostInGame": 9,
+                    "eliminationsMostInLife": 8,
+                    "finalBlowsMostInGame": 5,
+                    "heroDamageDoneMostInGame": 2068,
+                    "heroDamageDoneMostInLife": 1545,
+                    "killStreakBest": 8,
+                    "meleeFinalBlowMostInGame": 1,
+                    "objectiveKillsMostInGame": 5,
+                    "objectiveTimeMostInGame": 52,
+                    "soloKillMostInGame": 1,
+                    "timeSpentOnFireMostInGame": 14,
+                    "weaponAccuracyBestInGame": 35
+                },
+                "matchAwards": {
+                    "medalsBronze": 2,
+                    "medalsSilver": 1,
+                    "medalsGold": 1,
+                    "medals": 4
+                },
+                "heroSpecific": {
+                    "playersKnockedBack": 22,
+                    "playersKnockedBackAvgPer10Min": 0.02,
+                    "playersKnockedBackMostInGame": 7,
+                    "secondaryFireAccuracy": 35
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 7.58,
+                    "barrierDamageDoneAvgPer10Min": 1.55,
+                    "deathsAvgPer10Min": 0.02,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.22,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 6.03,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "zarya": {
+                "combat": {
+                    "allDamageDone": 5498479,
+                    "barrierDamageDone": 714329,
+                    "deaths": 5485,
+                    "eliminations": 15139,
+                    "environmentalKills": 22,
+                    "finalBlows": 4734,
+                    "heroDamageDone": 2140327,
+                    "meleeFinalBlows": 181,
+                    "multikills": 280,
+                    "objectiveKills": 7390,
+                    "objectiveTime": 67671,
+                    "quickMeleeAccuracy": 35,
+                    "soloKills": 528,
+                    "timeSpentOnFire": 40658,
+                    "weaponAccuracy": 40
+                },
+                "game": {
+                    "gamesWon": 499,
+                    "timePlayed": 469671
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 17168,
+                    "allDamageDoneMostInLife": 10733,
+                    "barrierDamageDoneMostInGame": 8793,
+                    "eliminationsMostInGame": 55,
+                    "eliminationsMostInLife": 24,
+                    "finalBlowsMostInGame": 19,
+                    "heroDamageDoneMostInGame": 13814,
+                    "heroDamageDoneMostInLife": 7266,
+                    "killStreakBest": 24,
+                    "meleeFinalBlowsMostInGame": 5,
+                    "multikillBest": 5,
+                    "objectiveKillsMostInGame": 34,
+                    "objectiveTimeMostInGame": 382,
+                    "soloKillsMostInGame": 8,
+                    "timeSpentOnFireMostInGame": 559,
+                    "weaponAccuracyBestInGame": 100
+                },
+                "heroSpecific": {
+                    "averageEnergy": 26,
+                    "averageEnergyBestInGame": 80,
+                    "damageBlocked": 3426581,
+                    "damageBlockedAvgPer10Min": 7.3,
+                    "damageBlockedMostInGame": 8749,
+                    "gravitonSurgeKills": 2471,
+                    "gravitonSurgeKillsAvgPer10Min": 0.01,
+                    "gravitonSurgeKillsMostInGame": 14,
+                    "highEnergyKills": 6146,
+                    "highEnergyKillsAvgPer10Min": 0.01,
+                    "highEnergyKillsMostInGame": 34,
+                    "primaryFireAccuracy": 36,
+                    "projectedBarriersApplied": 19828,
+                    "projectedBarriersAppliedAvgPer10Min": 0.04,
+                    "projectedBarriersAppliedMostInGame": 54,
+                    "secondaryFireAccuracy": 40
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 8,
+                    "turretsDestroyed": 868
+                },
+                "matchAwards": {
+                    "medalsBronze": 691,
+                    "medalsSilver": 967,
+                    "medalsGold": 1324,
+                    "medals": 2982,
+                    "cards": 402
+                },
+                "assists": {
+                    "defensiveAssists": 2510,
+                    "defensiveAssistsAvgPer10Min": 0.01,
+                    "defensiveAssistsMostInGame": 20,
+                    "offensiveAssists": 1544,
+                    "offensiveAssistsAvgPer10Min": 0,
+                    "offensiveAssistsMostInGame": 15
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 11.71,
+                    "barrierDamageDoneAvgPer10Min": 2.94,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.76,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 8.81,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "zenyatta": {
+                "combat": {
+                    "allDamageDone": 4432926,
+                    "barrierDamageDone": 1014903,
+                    "criticalHitAccuracy": 11,
+                    "criticalHits": 7748,
+                    "deaths": 4982,
+                    "eliminations": 10866,
+                    "finalBlows": 4747,
+                    "heroDamageDone": 2803994,
+                    "meleeFinalBlows": 71,
+                    "multikills": 28,
+                    "objectiveKills": 4619,
+                    "objectiveTime": 39908,
+                    "quickMeleeAccuracy": 13,
+                    "soloKills": 976,
+                    "timeSpentOnFire": 59079,
+                    "weaponAccuracy": 25
+                },
+                "game": {
+                    "gamesWon": 467,
+                    "timePlayed": 373236
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 15603,
+                    "allDamageDoneMostInLife": 9232,
+                    "barrierDamageDoneMostInGame": 6765,
+                    "criticalHitsMostInGame": 41,
+                    "criticalHitsMostInLife": 18,
+                    "eliminationsMostInGame": 39,
+                    "eliminationsMostInLife": 24,
+                    "finalBlowsMostInGame": 21,
+                    "heroDamageDoneMostInGame": 13339,
+                    "heroDamageDoneMostInLife": 5989,
+                    "killStreakBest": 24,
+                    "meleeFinalBlowsMostInGame": 2,
+                    "multikillBest": 4,
+                    "objectiveKillsMostInGame": 23,
+                    "objectiveTimeMostInGame": 240,
+                    "soloKillsMostInGame": 9,
+                    "timeSpentOnFireMostInGame": 547,
+                    "weaponAccuracyBestInGame": 100
+                },
+                "heroSpecific": {
+                    "secondaryFireAccuracy": 25,
+                    "selfHealing": 105546,
+                    "selfHealingAvgPer10Min": 0.28,
+                    "selfHealingMostInGame": 617,
+                    "transcendenceHealing": 811054,
+                    "transcendenceHealingBest": 2528
+                },
+                "miscellaneous": {
+                    "teleporterPadsDestroyed": 11,
+                    "turretsDestroyed": 387
+                },
+                "matchAwards": {
+                    "medalsBronze": 733,
+                    "medalsSilver": 1177,
+                    "medalsGold": 856,
+                    "medals": 2767,
+                    "cards": 480
+                },
+                "assists": {
+                    "defensiveAssists": 9290,
+                    "defensiveAssistsAvgPer10Min": 0.02,
+                    "defensiveAssistsMostInGame": 37,
+                    "healingDone": 2884148,
+                    "healingDoneAvgPer10Min": 7.73,
+                    "healingDoneMostInGame": 10004,
+                    "offensiveAssists": 10711,
+                    "offensiveAssistsAvgPer10Min": 0.03,
+                    "offensiveAssistsMostInGame": 37
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 11.88,
+                    "barrierDamageDoneAvgPer10Min": 3.13,
+                    "criticalHitsAvgPer10Min": 0.02,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.18,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 8.64,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            }
+        }
+    },
+    "competitive": {
+        "heroComparison": {
+            "timePlayed": {
+                "reinhardt": 3600,
+                "zarya": 1860,
+                "zenyatta": 1680,
+                "dva": 900,
+                "moira": 720,
+                "roadhog": 600,
+                "reaper": 420,
+                "pharah": 240,
+                "soldier-76": 240,
+                "tracer": 60,
+                "wreckingBall": 32,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "genji": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "lucio": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0
+            },
+            "gamesWon": {
+                "reinhardt": 5,
+                "zenyatta": 1,
+                "roadhog": 1,
+                "dva": 1,
+                "zarya": 1,
+                "reaper": 0,
+                "tracer": 0,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "pharah": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "genji": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "soldier-76": 0,
+                "lucio": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0,
+                "moira": 0,
+                "wreckingBall": 0
+            },
+            "winPercentage": {
+                "roadhog": 100,
+                "dva": 100,
+                "zenyatta": 67,
+                "reinhardt": 66,
+                "zarya": 26,
+                "reaper": 0,
+                "tracer": 0,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "pharah": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "genji": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "soldier-76": 0,
+                "lucio": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0,
+                "moira": 0,
+                "wreckingBall": 0
+            },
+            "weaponAccuracy": {
+                "zarya": 43,
+                "pharah": 42,
+                "roadhog": 33,
+                "soldier-76": 29,
+                "zenyatta": 29,
+                "reaper": 28,
+                "dva": 24,
+                "tracer": 22,
+                "wreckingBall": 22,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "reinhardt": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "genji": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "lucio": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0,
+                "moira": 0
+            },
+            "eliminationsPerLife": {
+                "dva": 7.85,
+                "roadhog": 5.8,
+                "pharah": 4.66,
+                "moira": 4.33,
+                "reaper": 4.16,
+                "zarya": 3.52,
+                "zenyatta": 2.8,
+                "tracer": 2,
+                "reinhardt": 2,
+                "soldier-76": 1.2,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "genji": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "lucio": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0,
+                "wreckingBall": 0
+            },
+            "multikillBest": {
+                "dva": 5,
+                "reinhardt": 3,
+                "reaper": 0,
+                "tracer": 0,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "pharah": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "zenyatta": 0,
+                "genji": 0,
+                "roadhog": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "zarya": 0,
+                "soldier-76": 0,
+                "lucio": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0,
+                "moira": 0,
+                "wreckingBall": 0
+            },
+            "objectiveKillsAverage": {
+                "reaper": 0,
+                "tracer": 0,
+                "mercy": 0,
+                "hanzo": 0,
+                "torbjorn": 0,
+                "reinhardt": 0,
+                "pharah": 0,
+                "winston": 0,
+                "widowmaker": 0,
+                "bastion": 0,
+                "symmetra": 0,
+                "zenyatta": 0,
+                "genji": 0,
+                "roadhog": 0,
+                "mccree": 0,
+                "junkrat": 0,
+                "zarya": 0,
+                "soldier-76": 0,
+                "lucio": 0,
+                "dva": 0,
+                "mei": 0,
+                "sombra": 0,
+                "doomfist": 0,
+                "ana": 0,
+                "orisa": 0,
+                "brigitte": 0,
+                "moira": 0,
+                "wreckingBall": 0
+            }
+        },
+        "careerStats": {
+            "allHeroes": {
+                "best": {
+                    "allDamageDoneMostInGame": 22331,
+                    "barrierDamageDoneMostInGame": 9327,
+                    "defensiveAssistsMostInGame": 32,
+                    "eliminationsMostInGame": 48,
+                    "environmentalKillMostInGame": 1,
+                    "finalBlowsMostInGame": 24,
+                    "healingDoneMostInGame": 13682,
+                    "heroDamageDoneMostInGame": 16952,
+                    "killStreakBest": 48,
+                    "meleeFinalBlowMostInGame": 1,
+                    "multikillBest": 5,
+                    "objectiveKillsMostInGame": 25,
+                    "objectiveTimeMostInGame": 447,
+                    "offensiveAssistsMostInGame": 42,
+                    "soloKillsMostInGame": 24,
+                    "timeSpentOnFireMostInGame": 405
+                },
+                "assists": {
+                    "defensiveAssists": 102,
+                    "healingDone": 35167,
+                    "offensiveAssists": 116
+                },
+                "combat": {
+                    "allDamageDone": 198065,
+                    "barrierDamageDone": 46420,
+                    "damageDone": 147360,
+                    "deaths": 139,
+                    "eliminations": 412,
+                    "environmentalKills": 2,
+                    "finalBlows": 164,
+                    "heroDamageDone": 147360,
+                    "meleeFinalBlows": 3,
+                    "multikills": 4,
+                    "objectiveKills": 207,
+                    "objectiveTime": 2594,
+                    "soloKills": 9,
+                    "timeSpentOnFire": 1832
+                },
+                "game": {
+                    "gamesLost": 7,
+                    "gamesPlayed": 16,
+                    "gamesWon": 9,
+                    "timePlayed": 12339
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 16.05,
+                    "barrierDamageDoneAvgPer10Min": 3.76,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "healingDoneAvgPer10Min": 2.85,
+                    "heroDamageDoneAvgPer10Min": 11.94,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                },
+                "matchAwards": {
+                    "cards": 9,
+                    "medals": 53,
+                    "medalsGold": 21,
+                    "medalsSilver": 18,
+                    "medalsBronze": 14
+                }
+            },
+            "dva": {
+                "combat": {
+                    "allDamageDone": 17136,
+                    "barrierDamageDone": 5760,
+                    "criticalHitAccuracy": 12,
+                    "criticalHits": 478,
+                    "deaths": 7,
+                    "eliminations": 55,
+                    "finalBlows": 14,
+                    "heroDamageDone": 11159,
+                    "meleeFinalBlow": 1,
+                    "multikills": 2,
+                    "objectiveKills": 18,
+                    "objectiveTime": 239,
+                    "quickMeleeAccuracy": 30,
+                    "soloKill": 1,
+                    "timeSpentOnFire": 137,
+                    "weaponAccuracy": 25
+                },
+                "game": {
+                    "gamesLost": 0,
+                    "gamesPlayed": 1,
+                    "gamesWon": 1,
+                    "timePlayed": 947,
+                    "winPercentage": 100
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 9736,
+                    "allDamageDoneMostInLife": 5092,
+                    "barrierDamageDoneMostInGame": 5502,
+                    "criticalHitsMostInGame": 295,
+                    "criticalHitsMostInLife": 113,
+                    "eliminationsMostInGame": 30,
+                    "eliminationsMostInLife": 12,
+                    "finalBlowsMostInGame": 11,
+                    "heroDamageDoneMostInGame": 6925,
+                    "heroDamageDoneMostInLife": 2245,
+                    "killStreakBest": 12,
+                    "meleeFinalBlowMostInGame": 1,
+                    "multikillBest": 5,
+                    "objectiveKillsMostInGame": 13,
+                    "objectiveTimeMostInGame": 210,
+                    "soloKillMostInGame": 1,
+                    "timeSpentOnFireMostInGame": 137,
+                    "weaponAccuracyBestInGame": 27
+                },
+                "heroSpecific": {
+                    "damageBlocked": 8444,
+                    "damageBlockedAvgPer10Min": 8.92,
+                    "damageBlockedMostInGame": 5513,
+                    "mechDeaths": 10,
+                    "mechsCalled": 11,
+                    "mechsCalledAvgPer10Min": 0.01,
+                    "mechsCalledMostInGame": 8,
+                    "secondaryFireAccuracy": 25,
+                    "selfdestructKills": 6,
+                    "selfdestructKillsAvgPer10Min": 0.01,
+                    "selfdestructKillsMostInGame": 5
+                },
+                "matchAwards": {
+                    "medalsBronze": 1,
+                    "medalsSilver": 2,
+                    "medals": 3
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 18.1,
+                    "barrierDamageDoneAvgPer10Min": 6.08,
+                    "criticalHitsAvgPer10Min": 0.5,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.06,
+                    "eliminationsPerLife": 7.86,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 11.79,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "moira": {
+                "combat": {
+                    "allDamageDone": 6876,
+                    "barrierDamageDone": 1031,
+                    "deaths": 6,
+                    "eliminations": 26,
+                    "finalBlows": 4,
+                    "heroDamageDone": 5724,
+                    "objectiveKills": 12,
+                    "objectiveTime": 202,
+                    "timeSpentOnFire": 37
+                },
+                "game": {
+                    "gamesLost": 1,
+                    "gamesPlayed": 1,
+                    "timePlayed": 747
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 4341,
+                    "allDamageDoneMostInLife": 2406,
+                    "barrierDamageDoneMostInGame": 643,
+                    "eliminationsMostInGame": 15,
+                    "eliminationsMostInLife": 10,
+                    "finalBlowsMostInGame": 3,
+                    "heroDamageDoneMostInGame": 3697,
+                    "heroDamageDoneMostInLife": 1885,
+                    "killStreakBest": 10,
+                    "objectiveKillsMostInGame": 9,
+                    "objectiveTimeMostInGame": 112,
+                    "timeSpentOnFireMostInGame": 19
+                },
+                "matchAwards": {
+                    "medalsBronze": 1,
+                    "medalsSilver": 1,
+                    "medalsGold": 2,
+                    "medals": 3
+                },
+                "assists": {
+                    "defensiveAssists": 16,
+                    "defensiveAssistsAvgPer10Min": 0.02,
+                    "defensiveAssistsMostInGame": 9,
+                    "healingDone": 10975,
+                    "healingDoneAvgPer10Min": 14.69,
+                    "healingDoneMostInGame": 6315
+                },
+                "heroSpecific": {
+                    "coalescenceHealing": 1248,
+                    "coalescenceHealingAvgPer10Min": 1.67,
+                    "coalescenceHealingMostInGame": 779,
+                    "coalescenceKills": 10,
+                    "coalescenceKillsAvgPer10Min": 0.01,
+                    "coalescenceKillsMostInGame": 7,
+                    "secondaryFireAccuracy": 69,
+                    "selfHealing": 1257,
+                    "selfHealingAvgPer10Min": 1.68,
+                    "selfHealingMostInGame": 853
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 9.2,
+                    "barrierDamageDoneAvgPer10Min": 1.38,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 4.33,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 7.66,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "pharah": {
+                "combat": {
+                    "allDamageDone": 3821,
+                    "deaths": 3,
+                    "eliminations": 14,
+                    "finalBlows": 6,
+                    "heroDamageDone": 3821,
+                    "objectiveKills": 5,
+                    "objectiveTime": 22,
+                    "timeSpentOnFire": 84,
+                    "weaponAccuracy": 42
+                },
+                "game": {
+                    "gamesLost": 0,
+                    "gamesPlayed": 0,
+                    "timePlayed": 299
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 3821,
+                    "allDamageDoneMostInLife": 2064,
+                    "eliminationsMostInGame": 14,
+                    "eliminationsMostInLife": 12,
+                    "finalBlowsMostInGame": 6,
+                    "heroDamageDoneMostInGame": 3821,
+                    "heroDamageDoneMostInLife": 2064,
+                    "killStreakBest": 12,
+                    "objectiveKillsMostInGame": 5,
+                    "objectiveTimeMostInGame": 22,
+                    "timeSpentOnFireMostInGame": 84,
+                    "weaponAccuracyBestInGame": 42
+                },
+                "heroSpecific": {
+                    "barrageKill": 1,
+                    "barrageKillMostInGame": 1,
+                    "barrageKillsAvgPer10Min": 0,
+                    "directHitAccuracy": 15,
+                    "rocketDirectHits": 16,
+                    "rocketDirectHitsAvgPer10Min": 0.05,
+                    "rocketDirectHitsMostInGame": 16,
+                    "secondaryFireAccuracy": 42
+                },
+                "matchAwards": {
+                    "medalsSilver": 0,
+                    "medalsGold": 1,
+                    "medals": 1
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 12.77,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.05,
+                    "eliminationsPerLife": 4.67,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 12.77,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "reaper": {
+                "combat": {
+                    "allDamageDone": 11705,
+                    "barrierDamageDone": 4417,
+                    "criticalHitAccuracy": 9,
+                    "criticalHits": 99,
+                    "deaths": 6,
+                    "eliminations": 25,
+                    "finalBlows": 16,
+                    "heroDamageDone": 7288,
+                    "objectiveKills": 12,
+                    "objectiveTime": 70,
+                    "timeSpentOnFire": 144,
+                    "weaponAccuracy": 28
+                },
+                "game": {
+                    "gamesLost": 0,
+                    "gamesPlayed": 0,
+                    "timePlayed": 458
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 11705,
+                    "allDamageDoneMostInLife": 4321,
+                    "barrierDamageDoneMostInGame": 4417,
+                    "criticalHitsMostInGame": 99,
+                    "criticalHitsMostInLife": 40,
+                    "eliminationsMostInGame": 25,
+                    "eliminationsMostInLife": 11,
+                    "finalBlowsMostInGame": 16,
+                    "heroDamageDoneMostInGame": 7288,
+                    "heroDamageDoneMostInLife": 2496,
+                    "killStreakBest": 11,
+                    "objectiveKillsMostInGame": 12,
+                    "objectiveTimeMostInGame": 70,
+                    "timeSpentOnFireMostInGame": 144,
+                    "weaponAccuracyBestInGame": 25
+                },
+                "heroSpecific": {
+                    "deathBlossomKills": 5,
+                    "deathBlossomKillsAvgPer10Min": 0.01,
+                    "deathBlossomKillsMostInGame": 5,
+                    "secondaryFireAccuracy": 28,
+                    "selfHealing": 950,
+                    "selfHealingAvgPer10Min": 2.08,
+                    "selfHealingMostInGame": 950
+                },
+                "matchAwards": {
+                    "medalsSilver": 0,
+                    "medalsGold": 1,
+                    "medals": 2,
+                    "card": 1
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 25.58,
+                    "barrierDamageDoneAvgPer10Min": 9.65,
+                    "criticalHitsAvgPer10Min": 0.22,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.05,
+                    "eliminationsPerLife": 4.17,
+                    "finalBlowsAvgPer10Min": 0.03,
+                    "heroDamageDoneAvgPer10Min": 15.93,
+                    "objectiveKillsAvgPer10Min": 0.03,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "reinhardt": {
+                "combat": {
+                    "allDamageDone": 78605,
+                    "barrierDamageDone": 14959,
+                    "deaths": 65,
+                    "eliminations": 130,
+                    "environmentalKill": 1,
+                    "finalBlows": 54,
+                    "heroDamageDone": 60152,
+                    "multikills": 2,
+                    "objectiveKills": 82,
+                    "objectiveTime": 1520,
+                    "soloKill": 1,
+                    "timeSpentOnFire": 400
+                },
+                "game": {
+                    "gamesLost": 2,
+                    "gamesPlayed": 7,
+                    "gamesWon": 5,
+                    "timePlayed": 5308,
+                    "winPercentage": 66
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 17363,
+                    "allDamageDoneMostInLife": 3915,
+                    "barrierDamageDoneMostInGame": 3584,
+                    "eliminationsMostInGame": 28,
+                    "eliminationsMostInLife": 9,
+                    "finalBlowsMostInGame": 11,
+                    "heroDamageDoneMostInGame": 12727,
+                    "heroDamageDoneMostInLife": 3201,
+                    "killStreakBest": 9,
+                    "multikillBest": 3,
+                    "objectiveKillsMostInGame": 16,
+                    "objectiveTimeMostInGame": 283,
+                    "soloKillMostInGame": 1,
+                    "timeSpentOnFireMostInGame": 129
+                },
+                "heroSpecific": {
+                    "chargeKills": 23,
+                    "chargeKillsAvgPer10Min": 0,
+                    "chargeKillsMostInGame": 5,
+                    "damageBlocked": 169877,
+                    "damageBlockedAvgPer10Min": 32.01,
+                    "damageBlockedMostInGame": 46788,
+                    "earthshatterKills": 32,
+                    "earthshatterKillsAvgPer10Min": 0.01,
+                    "earthshatterKillsMostInGame": 8,
+                    "fireStrikeKills": 59,
+                    "fireStrikeKillsAvgPer10Min": 0.01,
+                    "fireStrikeKillsMostInGame": 13,
+                    "rocketHammerMeleeAccuracy": 48
+                },
+                "matchAwards": {
+                    "medalsBronze": 7,
+                    "medalsSilver": 7,
+                    "medalsGold": 7,
+                    "medals": 20,
+                    "cards": 4
+                },
+                "assists": {
+                    "offensiveAssists": 27,
+                    "offensiveAssistsAvgPer10Min": 0.01,
+                    "offensiveAssistsMostInGame": 6
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 14.81,
+                    "barrierDamageDoneAvgPer10Min": 2.82,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 2,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 11.33,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "roadhog": {
+                "combat": {
+                    "allDamageDone": 11981,
+                    "barrierDamageDone": 3216,
+                    "criticalHitAccuracy": 12,
+                    "criticalHits": 161,
+                    "deaths": 5,
+                    "eliminations": 29,
+                    "environmentalKill": 1,
+                    "finalBlows": 14,
+                    "heroDamageDone": 8764,
+                    "meleeFinalBlow": 1,
+                    "objectiveKills": 14,
+                    "objectiveTime": 90,
+                    "quickMeleeAccuracy": 57,
+                    "timeSpentOnFire": 145,
+                    "weaponAccuracy": 34
+                },
+                "game": {
+                    "gamesLost": 0,
+                    "gamesPlayed": 1,
+                    "gamesWon": 1,
+                    "timePlayed": 617,
+                    "winPercentage": 100
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 8607,
+                    "allDamageDoneMostInLife": 4378,
+                    "barrierDamageDoneMostInGame": 2680,
+                    "criticalHitsMostInGame": 81,
+                    "criticalHitsMostInLife": 80,
+                    "eliminationsMostInGame": 22,
+                    "eliminationsMostInLife": 11,
+                    "finalBlowsMostInGame": 10,
+                    "heroDamageDoneMostInGame": 5926,
+                    "heroDamageDoneMostInLife": 2714,
+                    "killStreakBest": 11,
+                    "meleeFinalBlowMostInGame": 1,
+                    "objectiveKillsMostInGame": 11,
+                    "objectiveTimeMostInGame": 57,
+                    "timeSpentOnFireMostInGame": 125,
+                    "weaponAccuracyBestInGame": 42
+                },
+                "heroSpecific": {
+                    "enemiesHooked": 18,
+                    "enemiesHookedAvgPer10Min": 0.03,
+                    "enemiesHookedMostInGame": 14,
+                    "hookAccuracy": 62,
+                    "hookAccuracyBestInGame": 64,
+                    "hooksAttempted": 29,
+                    "secondaryFireAccuracy": 34,
+                    "selfHealing": 2444,
+                    "selfHealingAvgPer10Min": 3.96,
+                    "selfHealingMostInGame": 1381,
+                    "wholeHogKill": 1,
+                    "wholeHogKillMostInGame": 1,
+                    "wholeHogKillsAvgPer10Min": 0
+                },
+                "matchAwards": {
+                    "medalsBronze": 1,
+                    "medalsSilver": 3,
+                    "medalsGold": 2,
+                    "medals": 6,
+                    "card": 1
+                },
+                "assists": {
+                    "offensiveAssists": 10,
+                    "offensiveAssistsAvgPer10Min": 0.02,
+                    "offensiveAssistsMostInGame": 8
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 19.42,
+                    "barrierDamageDoneAvgPer10Min": 5.21,
+                    "criticalHitsAvgPer10Min": 0.26,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.05,
+                    "eliminationsPerLife": 5.8,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 14.2,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "soldier-76": {
+                "combat": {
+                    "allDamageDone": 4850,
+                    "barrierDamageDone": 1594,
+                    "criticalHitAccuracy": 8,
+                    "criticalHits": 12,
+                    "deaths": 5,
+                    "eliminations": 6,
+                    "finalBlows": 5,
+                    "heroDamageDone": 3256,
+                    "objectiveKills": 3,
+                    "objectiveTime": 11,
+                    "soloKill": 1,
+                    "weaponAccuracy": 30
+                },
+                "game": {
+                    "gamesLost": 1,
+                    "gamesPlayed": 1,
+                    "timePlayed": 276
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 4850,
+                    "allDamageDoneMostInLife": 2442,
+                    "barrierDamageDoneMostInGame": 1594,
+                    "criticalHitsMostInGame": 12,
+                    "criticalHitsMostInLife": 4,
+                    "eliminationsMostInGame": 6,
+                    "eliminationsMostInLife": 3,
+                    "finalBlowsMostInGame": 5,
+                    "heroDamageDoneMostInGame": 3256,
+                    "heroDamageDoneMostInLife": 1127,
+                    "killStreakBest": 3,
+                    "objectiveKillsMostInGame": 3,
+                    "objectiveTimeMostInGame": 11,
+                    "soloKillMostInGame": 1,
+                    "weaponAccuracyBestInGame": 26
+                },
+                "heroSpecific": {
+                    "bioticFieldHealingDone": 775,
+                    "bioticFieldsDeployed": 10,
+                    "helixRocketKills": 1,
+                    "helixRocketKillsMostInGame": 1,
+                    "helixRocketsKillsAvgPer10Min": 0,
+                    "secondaryFireAccuracy": 30,
+                    "selfHealing": 179,
+                    "selfHealingAvgPer10Min": 0.65,
+                    "selfHealingMostInGame": 179
+                },
+                "matchAwards": {
+                    "medalsBronze": 1,
+                    "medalsSilver": 1,
+                    "medalsGold": 1,
+                    "medals": 2
+                },
+                "assists": {
+                    "defensiveAssists": 4,
+                    "defensiveAssistsAvgPer10Min": 0.01,
+                    "defensiveAssistsMostInGame": 4,
+                    "healingDone": 775,
+                    "healingDoneAvgPer10Min": 2.81,
+                    "healingDoneMostInGame": 775
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 17.58,
+                    "barrierDamageDoneAvgPer10Min": 5.78,
+                    "criticalHitsAvgPer10Min": 0.04,
+                    "deathsAvgPer10Min": 0.02,
+                    "eliminationsAvgPer10Min": 0.02,
+                    "eliminationsPerLife": 1.2,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 11.8,
+                    "objectiveKillsAvgPer10Min": 0.01,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0
+                }
+            },
+            "tracer": {
+                "combat": {
+                    "allDamageDone": 463,
+                    "criticalHitAccuracy": 10,
+                    "criticalHits": 8,
+                    "deaths": 2,
+                    "eliminations": 4,
+                    "finalBlow": 1,
+                    "heroDamageDone": 463,
+                    "objectiveKills": 2,
+                    "objectiveTime": 14,
+                    "timeSpentOnFire": 19,
+                    "weaponAccuracy": 23
+                },
+                "game": {
+                    "gamesLost": 0,
+                    "gamesPlayed": 0,
+                    "timePlayed": 69
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 463,
+                    "allDamageDoneMostInLife": 420,
+                    "criticalHitsMostInGame": 8,
+                    "criticalHitsMostInLife": 7,
+                    "eliminationsMostInGame": 4,
+                    "eliminationsMostInLife": 3,
+                    "finalBlowMostInGame": 1,
+                    "heroDamageDoneMostInGame": 463,
+                    "heroDamageDoneMostInLife": 420,
+                    "killStreakBest": 3,
+                    "objectiveKillsMostInGame": 2,
+                    "objectiveTimeMostInGame": 14,
+                    "timeSpentOnFireMostInGame": 19,
+                    "weaponAccuracyBestInGame": 22
+                },
+                "matchAwards": {
+                    "medalsSilver": 0,
+                    "medalsGold": 0,
+                    "medals": 0
+                },
+                "heroSpecific": {
+                    "healthRecovered": 117,
+                    "healthRecoveredAvgPer10Min": 1.68,
+                    "healthRecoveredMostInGame": 117,
+                    "secondaryFireAccuracy": 23,
+                    "selfHealing": 117,
+                    "selfHealingAvgPer10Min": 1.68,
+                    "selfHealingMostInGame": 117
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 6.67,
+                    "criticalHitsAvgPer10Min": 0.12,
+                    "deathsAvgPer10Min": 0.03,
+                    "eliminationsAvgPer10Min": 0.06,
+                    "eliminationsPerLife": 2,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 6.67,
+                    "objectiveKillsAvgPer10Min": 0.03,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "wreckingBall": {
+                "game": {
+                    "gamesLost": 0,
+                    "gamesPlayed": 0,
+                    "timePlayed": 32
+                },
+                "combat": {
+                    "allDamageDone": 138,
+                    "death": 1,
+                    "heroDamageDone": 138,
+                    "objectiveTime": 17,
+                    "weaponAccuracy": 23
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 138,
+                    "allDamageDoneMostInLife": 138,
+                    "heroDamageDoneMostInGame": 138,
+                    "heroDamageDoneMostInLife": 138,
+                    "objectiveTimeMostInGame": 17,
+                    "weaponAccuracyBestInGame": 23
+                },
+                "matchAwards": {
+                    "medalsBronze": 0,
+                    "medalsSilver": 0,
+                    "medalsGold": 0,
+                    "medals": 0
+                },
+                "heroSpecific": {
+                    "playersKnockedBack": 2,
+                    "playersKnockedBackAvgPer10Min": 0.06,
+                    "playersKnockedBackMostInGame": 2,
+                    "secondaryFireAccuracy": 23
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 4.26,
+                    "deathsAvgPer10Min": 0.03,
+                    "heroDamageDoneAvgPer10Min": 4.26,
+                    "objectiveTimeAvgPer10Min": 1
+                }
+            },
+            "zarya": {
+                "combat": {
+                    "allDamageDone": 36135,
+                    "barrierDamageDone": 9987,
+                    "deaths": 19,
+                    "eliminations": 67,
+                    "finalBlows": 29,
+                    "heroDamageDone": 25980,
+                    "meleeFinalBlow": 1,
+                    "objectiveKills": 32,
+                    "objectiveTime": 297,
+                    "quickMeleeAccuracy": 60,
+                    "soloKills": 4,
+                    "timeSpentOnFire": 394,
+                    "weaponAccuracy": 43
+                },
+                "game": {
+                    "gamesLost": 1,
+                    "gamesPlayed": 2,
+                    "gamesWon": 1,
+                    "timePlayed": 1864,
+                    "winPercentage": 27
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 22331,
+                    "allDamageDoneMostInLife": 6115,
+                    "barrierDamageDoneMostInGame": 5211,
+                    "eliminationsMostInGame": 37,
+                    "eliminationsMostInLife": 15,
+                    "finalBlowsMostInGame": 20,
+                    "heroDamageDoneMostInGame": 16952,
+                    "heroDamageDoneMostInLife": 4563,
+                    "killStreakBest": 15,
+                    "meleeFinalBlowMostInGame": 1,
+                    "objectiveKillsMostInGame": 19,
+                    "objectiveTimeMostInGame": 263,
+                    "soloKillsMostInGame": 3,
+                    "timeSpentOnFireMostInGame": 353,
+                    "weaponAccuracyBestInGame": 56
+                },
+                "heroSpecific": {
+                    "averageEnergy": 52,
+                    "averageEnergyBestInGame": 56,
+                    "damageBlocked": 20137,
+                    "damageBlockedAvgPer10Min": 10.8,
+                    "damageBlockedMostInGame": 12995,
+                    "gravitonSurgeKills": 10,
+                    "gravitonSurgeKillsAvgPer10Min": 0.01,
+                    "gravitonSurgeKillsMostInGame": 6,
+                    "highEnergyKills": 52,
+                    "highEnergyKillsAvgPer10Min": 0.03,
+                    "highEnergyKillsMostInGame": 28,
+                    "primaryFireAccuracy": 45,
+                    "projectedBarriersApplied": 108,
+                    "projectedBarriersAppliedAvgPer10Min": 0.06,
+                    "projectedBarriersAppliedMostInGame": 64,
+                    "secondaryFireAccuracy": 43
+                },
+                "matchAwards": {
+                    "medalsBronze": 1,
+                    "medalsSilver": 0,
+                    "medalsGold": 5,
+                    "medals": 7,
+                    "card": 1
+                },
+                "assists": {
+                    "defensiveAssists": 26,
+                    "defensiveAssistsAvgPer10Min": 0.01,
+                    "defensiveAssistsMostInGame": 12,
+                    "offensiveAssists": 12,
+                    "offensiveAssistsAvgPer10Min": 0.01,
+                    "offensiveAssistsMostInGame": 6
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 19.39,
+                    "barrierDamageDoneAvgPer10Min": 5.36,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.04,
+                    "eliminationsPerLife": 3.53,
+                    "finalBlowsAvgPer10Min": 0.02,
+                    "heroDamageDoneAvgPer10Min": 13.94,
+                    "meleeFinalBlowsAvgPer10Min": 0,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            },
+            "zenyatta": {
+                "combat": {
+                    "allDamageDone": 26355,
+                    "barrierDamageDone": 5456,
+                    "criticalHitAccuracy": 14,
+                    "criticalHits": 52,
+                    "deaths": 20,
+                    "eliminations": 56,
+                    "finalBlows": 21,
+                    "heroDamageDone": 20616,
+                    "objectiveKills": 27,
+                    "objectiveTime": 112,
+                    "soloKills": 2,
+                    "timeSpentOnFire": 473,
+                    "weaponAccuracy": 29
+                },
+                "game": {
+                    "gamesLost": 1,
+                    "gamesPlayed": 2,
+                    "gamesWon": 1,
+                    "timePlayed": 1722,
+                    "winPercentage": 68
+                },
+                "best": {
+                    "allDamageDoneMostInGame": 13287,
+                    "allDamageDoneMostInLife": 4057,
+                    "barrierDamageDoneMostInGame": 2682,
+                    "criticalHitsMostInGame": 27,
+                    "criticalHitsMostInLife": 12,
+                    "eliminationsMostInGame": 39,
+                    "eliminationsMostInLife": 16,
+                    "finalBlowsMostInGame": 14,
+                    "heroDamageDoneMostInGame": 11221,
+                    "heroDamageDoneMostInLife": 3274,
+                    "killStreakBest": 16,
+                    "objectiveKillsMostInGame": 19,
+                    "objectiveTimeMostInGame": 100,
+                    "soloKillsMostInGame": 2,
+                    "timeSpentOnFireMostInGame": 405,
+                    "weaponAccuracyBestInGame": 30
+                },
+                "heroSpecific": {
+                    "secondaryFireAccuracy": 29,
+                    "selfHealing": 423,
+                    "selfHealingAvgPer10Min": 0.25,
+                    "selfHealingMostInGame": 190,
+                    "transcendenceHealing": 8647,
+                    "transcendenceHealingBest": 2510
+                },
+                "matchAwards": {
+                    "medalsBronze": 1,
+                    "medalsSilver": 3,
+                    "medalsGold": 2,
+                    "medals": 7,
+                    "cards": 2
+                },
+                "assists": {
+                    "defensiveAssists": 56,
+                    "defensiveAssistsAvgPer10Min": 0.03,
+                    "defensiveAssistsMostInGame": 32,
+                    "healingDone": 20023,
+                    "healingDoneAvgPer10Min": 11.63,
+                    "healingDoneMostInGame": 7367,
+                    "offensiveAssists": 67,
+                    "offensiveAssistsAvgPer10Min": 0.04,
+                    "offensiveAssistsMostInGame": 42
+                },
+                "average": {
+                    "allDamageDoneAvgPer10Min": 15.31,
+                    "barrierDamageDoneAvgPer10Min": 3.17,
+                    "criticalHitsAvgPer10Min": 0.03,
+                    "deathsAvgPer10Min": 0.01,
+                    "eliminationsAvgPer10Min": 0.03,
+                    "eliminationsPerLife": 2.8,
+                    "finalBlowsAvgPer10Min": 0.01,
+                    "heroDamageDoneAvgPer10Min": 11.97,
+                    "objectiveKillsAvgPer10Min": 0.02,
+                    "objectiveTimeAvgPer10Min": 0,
+                    "soloKillsAvgPer10Min": 0,
+                    "timeSpentOnFireAvgPer10Min": 0
+                }
+            }
+        }
+    },
+    "achievements": {
+        "general": [
+            {
+                "title": "Centenary",
+                "description": "Win 100 games in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f5e73717ac598860557894a25d764adc86be9e8a39e19cba6680845d30545e8b.png"
+            },
+            {
+                "title": "Level 10",
+                "description": "Reach level 10.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a31d0613949db501bb35f1434b19f4be3b181bcd4fdca0e62a7396c923630d06.png"
+            },
+            {
+                "title": "Level 25",
+                "description": "Reach level 25.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/192a05d8f959ef0bb05203345f2ed4a809fe19e3eeddffe1da365d389caf2f3f.png"
+            },
+            {
+                "title": "Level 50",
+                "description": "Reach level 50.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/540631a4dce2082c627ebdf85403e1b9294946acaa72e55d6476159ff9fd582a.png"
+            },
+            {
+                "title": "Undying",
+                "description": "Get a 20 player kill streak in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7908b4b7b46ef0367be783c0f6d5fdf45280e5a2754878a097f9b0288de989cf.png"
+            },
+            {
+                "title": "The Path Is Closed",
+                "description": "Destroy 3 of Symmetra's Teleporters in a single Quick or Competitive Play game.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/879cfecf908dca1e8e14ba4a8cd6144ec46936c665350d9b0f3049d41e46013c.png"
+            },
+            {
+                "title": "Survival Expert",
+                "description": "Use health packs to heal 900 health in a single life in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/acd6d6406c4a7a0b2732edb9bf8e22db5dc368ac682e2ce24aa86c0f4e129ed2.png"
+            },
+            {
+                "title": "Decorated",
+                "description": "Earn 50 postgame medals in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/07af947a42d9c4fa3468ddd5dfbae7009e9bc12b352ef6716a9db5d9190b2340.png"
+            },
+            {
+                "title": "Blackjack",
+                "description": "Earn 21 postgame cards in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/82c68b2155d124007b594f484aa4e42b47d0ba8060113205a0350ae596ee50d9.png"
+            },
+            {
+                "title": "Decked Out",
+                "description": "Collect 50 unlocks for a single hero.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/33ee9eda7497084066237734c51d709442ca76f46e02d238f63b42849e155c11.png"
+            },
+            {
+                "title": "The Friend Zone",
+                "description": "Play a Quick or Competitive Play game in a group with a friend.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b4e9aeb96cac8950f497e874a6e75a4b3a03e62dd1dd9836c471d6ff52a25a7b.png"
+            }
+        ],
+        "damage": [
+            {
+                "title": "Die Die Die... Die",
+                "description": "Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/363287e6f404c8f86026dd41d3a4ff95ef759da7a2a19ee67927e0071a520c79.png"
+            },
+            {
+                "title": "Their Own Worst Enemy",
+                "description": "Kill 2 enemies with a single use of Genji's Deflection in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/64a925034337346738cd7f1e0b18ed297bb8e9422ce0ff1f45c319715f72a5c3.png"
+            },
+            {
+                "title": "Whoa There!",
+                "description": "Interrupt an enemy ultimate ability with McCree's Flashbang in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7397a01a2270e80d2aba17bd0f1b989304663c15c843d5fb8503e6250a7b0ec8.png"
+            },
+            {
+                "title": "It's High Noon",
+                "description": "Get 4 killing blows with a single use of McCree's Deadeye in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3e428d96938516ecbf30a6cf91183b38e201493079f8d8d08c3b60d7436a5a46.png"
+            },
+            {
+                "title": "Death From Above",
+                "description": "Kill 4 enemies in a row without touching the ground as Pharah in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5526f39599d0b96161b46d73c4fed6cb32345655c48e91d42d0e3c5989e07f78.png"
+            },
+            {
+                "title": "Clearing the Area",
+                "description": "Knock an enemy to their death using Pharah's Concussive Blast in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9fec117b84b177bd128a963454ae7672a3e21c9c4fb19df5fe11760831e751c4.png"
+            },
+            {
+                "title": "Rocket Man",
+                "description": "Get 2 killing blows with a single use of Soldier: 76's Helix Rockets in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1be32bb94b2bb8583770034095cf469c8199f9256bec0717ff96d90f4dc0c21a.png"
+            },
+            {
+                "title": "Target Rich Environment",
+                "description": "Kill 4 enemies with a single use of Soldier: 76's Tactical Visor in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/66ec4db95d75771dc79f37a44563dcdcfede04389989d0d3a67b7c09e6d06e50.png"
+            },
+            {
+                "title": "Total Recall",
+                "description": "Recover 400 health using Tracer's Recall without dying in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d915dd065cbd831bedb37906944dcca6d836fd2e04cfabbf505040a6c3f6a8dc.png"
+            },
+            {
+                "title": "Special Delivery",
+                "description": "Stick 4 of Tracer's Pulse Bombs onto enemies in a single Quick or Competitive Play game.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f38358b9387891b1076280b1ff89067514e19a0904c4d74cf16f66b5af07da45.png"
+            },
+            {
+                "title": "Mine Like a Steel Trap",
+                "description": "Knock an enemy into your Steel Trap using Junkrat's Concussion Mine in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/df0ecca70bb1c27deaedc16182c2d0ebff3c24cbf5d42b36c2559c20cfd290fb.png"
+            },
+            {
+                "title": "Roadkill",
+                "description": "Kill 4 enemies with a single use of Junkrat's RIP-Tire in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9422e704af58fca3aaa54532137723264d75a7278f2ca9466fd902b502dd29ba.png"
+            },
+            {
+                "title": "Ice Blocked",
+                "description": "Block 1200 damage with a single use of Mei's Ice Wall in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6ad0dd899a8d69346bc697b63fdad8345a3818ac9298a2da7a60d15e48ffd075.png"
+            },
+            {
+                "title": "Cold Snap",
+                "description": "Freeze 4 enemies at once with Mei in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1da06b257cbba24c37cd20b0996183fadd7b223e9d86398ed3072d454d48d4aa.png"
+            },
+            {
+                "title": "The Car Wash",
+                "description": "Hit an enemy with 3 beams simultaneously as Symmetra in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8c4bda8015be02a84ca95dd7aa142473bbc85ce37e8bfa52c270f143580c9928.png"
+            },
+            {
+                "title": "Power Outage",
+                "description": "Hack 6 enemies at once as Sombra in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/17f6c3a2b088da88af35b4778dc763d906334117bafefa73b9dbe590759f9965.png"
+            }
+        ],
+        "tank": [
+            {
+                "title": "Shot Down",
+                "description": "Prevent 1500 damage with a single use of D.va's Defense Matrix in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/52f39c43468d0d4f7718e6c63fabdae127899dbfdeb1b140bcdaae6cf98fb552.png"
+            },
+            {
+                "title": "Game Over",
+                "description": "Kill 4 enemies with a single use of D.va's Self Destruct in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ae95bae6a543078dc5eb59e992d2b91fa17139bd61a120401913296edd34c63d.png"
+            },
+            {
+                "title": "I Am Your Shield",
+                "description": "Block 8000 damage with Reinhardt's Barrier Field without dying in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06122e9848fdc9c64c13696a3d4f92cdc4a68f0af2b36f63e09ffe4847fca44a.png"
+            },
+            {
+                "title": "Storm, Earth and Fire",
+                "description": "Land Reinhardt's Fire Strike and Charge after an Earthshatter stun in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5d84ee62fb0924ae8cf40f61dadf3b36da41428ad716236adf6939c0fd010f4c.png"
+            },
+            {
+                "title": "Giving You the Hook",
+                "description": "Interrupt an enemy ultimate ability with Roadhog's Hook in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2c4669cb9834be7b5c246b4f556679f971ff4f2f51703e04b332d6d30a84e92c.png"
+            },
+            {
+                "title": "Hog Wild",
+                "description": "Knock 2 enemies to their deaths with one use of Roadhog's Whole Hog in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/fa1e76951ed6ee367ae9a5178b069eae824de07ee193e07c819e7015466879d8.png"
+            },
+            {
+                "title": "Mine Sweeper",
+                "description": "Destroy 10 turrets or traps using Winston's Tesla Cannon without dying in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5585c9364497cc89efd1b0e5940516934a2e22bb880b2bef42338bcbdc6f6304.png"
+            },
+            {
+                "title": "Anger Management",
+                "description": "Damage 6 enemies during a single use of Winston's Primal Rage in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/917ce30622aa4981b91ddb7bd65606b07de3c1015e91c4c5eb1435bc3d3557c0.png"
+            },
+            {
+                "title": "Power Overwhelming",
+                "description": "Keep Zarya's particle cannon above 70 power for 60 seconds in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d76bfd3f0b6a7ecd5400dbabaacd4715eb4a50e5b456e2e152c64fc321534447.png"
+            },
+            {
+                "title": "The Power of Attraction",
+                "description": "Capture 5 enemies in a single use of Zarya's Graviton Surge in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/960da905558597286e1f08250009f751262d88d91ad597d1f766f3ef9d4d9c94.png"
+            }
+        ],
+        "support": [
+            {
+                "title": "Supersonic",
+                "description": "Block 1000 damage with a single use of Lúcio's Sound Barrier in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9a6793bcadbf993c49cecb43d395ffcf8b5dd87eb0fd023631faf6457c140fdc.png"
+            },
+            {
+                "title": "Group Health Plan",
+                "description": "Restore 200 health for 5 allies without dying as Mercy in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/59ee8d76ffc1def29d8a17ab0d0ab56b6fc622750ba8a9444efe4f2f93bb3248.png"
+            },
+            {
+                "title": "Huge Rez",
+                "description": "Resurrect 6 allies without dying as Mercy in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c7b3c57d7dd91c200f558914f0dd16fb7d733278694f3f63b20d44cc583cb173.png"
+            },
+            {
+                "title": "Rapid Discord",
+                "description": "Get 4 kills or assists with Zenyatta's Orb of Discord within 6 seconds in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/316a717051bd2dbd2f3bb6918d80b7075cdcbcac40d6a6243221d833ce3e1a28.png"
+            },
+            {
+                "title": "The Iris Embraces You",
+                "description": "Restore 1500 health with a single use of Zenyatta's Transcendence in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/752d0a370208678e21f7801ffa303f69fd847eb4fa1fb17125216a17e29fec22.png"
+            },
+            {
+                "title": "Naptime",
+                "description": "Interrupt an enemy ultimate ability with Ana's Sleep Dart in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e1448ba4d54a3fd15df2346d2ad1e4501e1f293fdb47b62aa3166be2a6797851.png"
+            },
+            {
+                "title": "Enabler",
+                "description": "Get 4 kills or assists with a single use of Ana's Nano Boost in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/fe0c0abd9f46dfe56010b17a523c413c62948767d5da437fbc65704e3e56a335.png"
+            },
+            {
+                "title": "Antipode",
+                "description": "Hit 7 targets simultaneously with Moira's Coalescence in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/901542ad9718c4953159377bbdd5d880b55024e816d642c26566e38882934c2d.png"
+            },
+            {
+                "title": "Simple Trigonometry",
+                "description": "Fully deplete both types of Moira's Biotic Orb without dying in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b45cafa29efa8cf5c7911063acad013c13b4833547435660e91768a6801b83c1.png"
+            },
+            {
+                "title": "Grounded",
+                "description": "Kill an airborne enemy with Brigitte's Whip Shot in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/79dccfedd2e998f771b9aa8006eda7de3a9c4832e8354671d3474a7361dab401.png"
+            },
+            {
+                "title": "Excuse Me",
+                "description": "Interrupt an enemy ultimate ability with Brigitte's Shield Bash in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8877e50cb653f1720d7b7a0c1d3b3f1c5086b98aebf0a30ece1b16ae9c0d4666.png"
+            }
+        ],
+        "maps": [
+            {
+                "title": "Lockdown",
+                "description": "Win a Capture map on defense without losing the first objective in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/39b1ae2d9564ca5aab506613aaf7922c2e6f1c8c54345785a634047af857fb2a.png"
+            },
+            {
+                "title": "Double Cap",
+                "description": "Capture both objectives on a Capture map without dying in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/011a7b11070573a5142e6aaec67581d284288ab32123bd8f84008b3a8d405360.png"
+            },
+            {
+                "title": "Escort Duty",
+                "description": "Push a payload 100 meters without leaving it in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/fa04481062fc6926a5eba2a89c116a1e49215f1412975fb9fefcdfb673b4bb77.png"
+            },
+            {
+                "title": "Can't Touch This",
+                "description": "Prevent the attacking team from touching the payload for 1 minute in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/db29e3375e474723bf738fc1d969bc3bd524dcc1a5a1a1b703d80dab014856a0.png"
+            },
+            {
+                "title": "Shutout",
+                "description": "Win a Control map without the enemy capturing an objective in Quick or Competitive Play.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/bfc50286c4147bbefd0fcb536267a16fb4ee33b71315160519fb0e81e4da5800.png"
+            },
+            {
+                "title": "World Traveler",
+                "description": "Win a Quick or Competitive Play game on 12 different maps.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/08d66c748a99bc49830ccf89f062ae2778539bbdebce3594eb65105925b977f2.png"
+            }
+        ],
+        "special": [
+            {
+                "title": "Survived the Night",
+                "description": "Win Junkenstein's Revenge on Hard difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ec4db4350f97d599e8d10722ace6b902679f688feba66377f9ed306b41fa3018.png"
+            },
+            {
+                "title": "Not a Scratch",
+                "description": "Win Junkenstein's Revenge on Hard difficulty with no damage to the door.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/49d86e7d9a6cdae0596c9aafa613ab73d1d063bf8c23f507e1367764eecbfe31.png"
+            },
+            {
+                "title": "Four They Were",
+                "description": "Win Junkenstein's Revenge with 4 different heroes.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/82b8d98629f87c47fb8285c6471877d738aab092660d35fdb6c663289cedebc1.png"
+            },
+            {
+                "title": "Held The Door",
+                "description": "Win Junkenstein's Revenge on Legendary difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/53531d40d8ce21259832acf63ae3ffc8d8d2795bb46688631e7780b6e40c946e.png"
+            },
+            {
+                "title": "Snowed In",
+                "description": "Win Mei's Snowball Offensive without losing a round.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/67b0f37b65589964de50a8d5bbf8fe338ba09fd998e8cf5234a0786e0274dc84.png"
+            },
+            {
+                "title": "Cool As Ice",
+                "description": "Kill 4 enemies without missing in Mei's Snowball Offensive.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2e84c0d34d0bd9a04520d61c840d12e04fe41a19b15b59f05452e02075a7239a.png"
+            },
+            {
+                "title": "Whap!",
+                "description": "Kill an enemy with a snowball from 25 meters away in Mei's Snowball Offensive.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/bdf5603b751dda5e8e6700be98815a5f7c72fecd2ed6dcaa8c085f7514014a70.png"
+            },
+            {
+                "title": "Flagbearer",
+                "description": "Win Capture the Flag with a score of 3 to 0.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/16619ecee76e185d00c84a963f49c5cb4a5986091a03c4534bdb80bdc221c46c.png"
+            },
+            {
+                "title": "Cleanup Duty",
+                "description": "Recover a flag in a game of Capture the Flag.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/62643e1c8faaab95e12dde99d88aafcc3db3abfb152665cd27a2571a91387ca1.png"
+            },
+            {
+                "title": "Mission Complete",
+                "description": "Complete Uprising on Hard difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ebf937fbeb8241fdbc2ee47df6b7ea19e5d638aeada78c0a0a9c0cc26697e44a.png"
+            },
+            {
+                "title": "Handle With Care",
+                "description": "Deliver the payload with over 80% health in Uprising on Hard difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a9b98de08f9f999eb428c0f8f2ffb183c7ada2758b69c27f139b30b251f009c3.png"
+            },
+            {
+                "title": "Strike Team",
+                "description": "Complete Uprising with each of the 4 heroes.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cb3bc4b6ecbdae9908805a9ce3dc0fe70b21e2c86af3d23f8a81af897fb04455.png"
+            },
+            {
+                "title": "Volley",
+                "description": "Score a goal in Lúcioball with a shot taken from at least 4 meters in the air.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0359fe5f3c816388e3b95536e64c4dbc0aaf75453919c4f7ef28de64a0d630de.png"
+            },
+            {
+                "title": "Safe Hands",
+                "description": "Score 3 saves in a row in Lúcioball.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f3b47aacef78a3a08c6a38de6f2a9e518c86f0bb9be7aba2804d374e4feac738.png"
+            },
+            {
+                "title": "Lúcio Hat Trick",
+                "description": "Score a goal, a save, and an assist in a game of Lúcioball.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b1b49e8ad83fd21bb425519532a8b5fd2d2b2037368342549e7d0bb5407d9eb4.png"
+            },
+            {
+                "title": "Dawn Breaks",
+                "description": "Win Junkenstein's Revenge on Expert difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/546892b3d396f279abb58c27fcb195b4efb52821a5cfa358383c4918229b1be5.png"
+            },
+            {
+                "title": "Unscathed",
+                "description": "Win Junkenstein Endless on Hard difficulty with no damage to the door.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0332696dcf1c1f4f1fdb897031faea81c4c339fc23ef310bd46628a85605eef5.png"
+            },
+            {
+                "title": "Thinking With Your Stomach",
+                "description": "Eat 4 meat as the Yeti in Yeti Hunter.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5339327bdcd2fef36d8f4b848067c9f5a7683df1ea35538449df5fec4d32826a.png"
+            },
+            {
+                "title": "Yeti Catcher",
+                "description": "Trap the Yeti as a Hunter in Yeti Hunter.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/174c4fd4775f683d4efa5b094d3b36e2d6092d2c1d67129075991dcac21df537.png"
+            },
+            {
+                "title": "The Venice Incident",
+                "description": "Complete Retribution with each of the 4 heroes.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/51138229a7318fad17fc4a99473bb12e9b319f917acf62dd561306f964895f98.png"
+            },
+            {
+                "title": "Into the Shadows",
+                "description": "Complete Retribution on Hard difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f468a6ba1675e868a66fcb1727c3f4c5b87289b222ea49c648a2a57fbe79fc9d.png"
+            },
+            {
+                "title": "A Quiet Night",
+                "description": "Complete Retribution on Expert difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/51be9b3061b27ee6503139e584b63bdfecd04d7faaa3c0f26d4552fc5502d558.png"
+            },
+            {
+                "title": "Six Wanderers",
+                "description": "Win Junkenstein's Revenge with 6 different heroes.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f86fc1f0714bafe5b85e6b80e1070452aa212f1954c749a28083e7a9557b0ec9.png"
+            },
+            {
+                "title": "Hardened Defenders",
+                "description": "Survive 4 bonus waves in Junkenstein Endless on Hard difficulty.",
+                "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/92229229d56f68d63f7a3cf462ee19716eb552009165f8f65ee011e3976a34f0.png"
+            }
+        ]
+    }
+}
