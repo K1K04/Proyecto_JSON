@@ -3,25 +3,24 @@ Proyecto de json en python sobre overwatch.
 
 ## Preguntas:
 
-1. **Listar personajes:** 
+1. **_Listar personajes:_** 
    
    Permite listar todos los personajes disponibles en Overwatch.
 
-2. **Contar con cuántos personajes has conseguido más o las mismas medallas de oro que especifiques por teclado:**
+2. **_Contar con cuántos personajes has conseguido más o las mismas medallas de oro que especifiques por teclado:_**
    
    Pide al usuario un número de medallas de oro y cuenta cuántos personajes ha conseguido igual o más medallas de oro que el número especificado.
 
-3. **Pedir por teclado un número de partidas ganadas y listar los personajes con los que has conseguido esas o más victorias:**
+3. **_Pedir por teclado un número de partidas ganadas y listar los personajes con los que has conseguido esas o más victorias:_**
    
    Solicita al usuario un número de partidas ganadas y lista los personajes con los que ha conseguido al menos esa cantidad de victorias.
 
-4. **Mostrar las muertes y asesinatos de un personaje introducido por teclado:**
+4. **_Mostrar las muertes y asesinatos de un personaje introducido por teclado:_**
    
    Solicita al usuario el nombre de un personaje y muestra las estadísticas de muertes y asesinatos de ese personaje.
 
-5. **Pedir por teclado un número de daño y mostrar los personajes con los que has realizado menos daño:**
+5. **_Pedir por teclado un número de daño y mostrar los personajes con los que has realizado menos daño:_**
    
    Pide al usuario un número de daño y muestra los personajes con los que ha realizado menos daño que el número especificado.
 
 ![Overwatch](https://cdn.akamai.steamstatic.com/steam/apps/2443732/ss_ab81719b158b0c4c82725c827182de85751024f8.1920x1080.jpg?t=1697128925)
-
