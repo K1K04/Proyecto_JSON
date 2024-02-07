@@ -15,9 +15,9 @@ Proyecto de json en python sobre overwatch.
    
    Solicita al usuario un número de partidas ganadas y lista los personajes con los que ha conseguido al menos esa cantidad de victorias.
 
-4. **_Mostrar las muertes y asesinatos de un personaje introducido por teclado:_**
+4. **_Pedir el numero de muertes y mostrara los personajes que mas de ese numero de muertes tienen:_**
    
-   Solicita al usuario el nombre de un personaje y muestra las estadísticas de muertes y asesinatos de ese personaje.
+   Pide al usuario un numero de muertes y te mostrara todos los personajes que han muerto mas que ese numero.
 
 5. **_Pedir por teclado un número de daño y mostrar los personajes con los que has realizado menos daño:_**
    
