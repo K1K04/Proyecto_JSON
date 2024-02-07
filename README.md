@@ -11,9 +11,9 @@ Proyecto de json en python sobre overwatch.
    
    Pide al usuario un número de medallas de oro y cuenta cuántos personajes ha conseguido igual o más medallas de oro que el número especificado.
 
-3. **Pedir por teclado un número de partidas ganadas y listar los héroes con los que has conseguido esas o más victorias:**
+3. **Pedir por teclado un número de partidas ganadas y listar los personajes con los que has conseguido esas o más victorias:**
    
-   Solicita al usuario un número de partidas ganadas y lista los héroes con los que ha conseguido al menos esa cantidad de victorias.
+   Solicita al usuario un número de partidas ganadas y lista los personajes con los que ha conseguido al menos esa cantidad de victorias.
 
 4. **Mostrar las muertes y asesinatos de un personaje introducido por teclado:**
    
