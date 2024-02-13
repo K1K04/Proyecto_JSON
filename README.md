@@ -14,12 +14,12 @@ Proyecto de json en python sobre overwatch.
 3. **_Pedir por teclado un número de partidas ganadas y listar los personajes con los que has conseguido esas o más victorias:_**
    
    Solicita al usuario un número de partidas ganadas y lista los personajes con los que ha conseguido al menos esa cantidad de victorias.
-
-4. **_Pedir el numero de muertes y mostrara los personajes que mas de ese numero de muertes tienen:_**
+   
+5. **_Pedir el numero de muertes y mostrara los personajes que mas de ese numero de muertes tienen:_**
    
    Pide al usuario un numero de muertes y te mostrara todos los personajes que han muerto mas que ese numero.
 
-5. **_Pedir por teclado un número de daño y mostrar los personajes con los que has realizado menos daño:_**
+6. **_Pedir por teclado un número de daño y mostrar los personajes con los que has realizado menos daño:_**
    
    Pide al usuario un número de daño y muestra los personajes con los que ha realizado menos daño que el número especificado.
 
