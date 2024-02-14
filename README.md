@@ -12,7 +12,5 @@ Proyecto de json en python sobre overwatch.
 4. **_Buscar información relacionada: Se pide por pantalla un número de valoración y se muestra el titulo de las peliculas junto con su sinopsis que cuente con dicha valoración_**
    
 5. **_Se muestran una lista de generos, se pide uno de ellos por teclado y muestra las peliculas o pelicula que pertenecen a ese genero, luego se pide la pelicula deseada por teclado y se muestra su sinopsis_**
-   
-   Pide al usuario un numero de muertes y te mostrara todos los personajes que han muerto mas que ese numero.
 
 ![image](https://github.com/K1K04/Proyecto_JSON/assets/95848578/ce16c544-16c4-44b0-a16d-aea152d9e284)
