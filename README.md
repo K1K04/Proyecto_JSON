@@ -1,5 +1,5 @@
 # Proyecto_JSON 
-Proyecto de json en python sobre overwatch.
+Proyecto de json en python sobre Cines.
 
 ## Preguntas:
 
