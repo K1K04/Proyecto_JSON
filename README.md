@@ -5,7 +5,7 @@ Proyecto de json en python sobre Cines.
 
 1. **_Listar información: Muestra la información sobre los cines que hay en el fichero y su ubicación y numero de teléfono_** 
 
-2. **_Contar información: Cuenta la catidad de películas almacenadas e indica el o los géneros de cada una_**
+2. **_Contar información: Cuenta la cantidad de películas almacenadas e indica el o los géneros de cada una_**
 
 3. **_Buscar o filtrar información: Pide una el título de una película por teclado y te muestra el director y el año de estreno_**
 
