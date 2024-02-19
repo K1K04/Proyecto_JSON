@@ -9,7 +9,7 @@ Proyecto de json en python sobre Cines.
 
 3. **_Buscar o filtrar información: Pide una el título de una película por teclado y te muestra el director y el año de estreno_**
 
-4. **_Buscar información relacionada: Se pide por pantalla un número de valoración y se muestra el titulo de las peliculas junto con su sinopsis que cuente con dicha valoración_**
+4. **_Buscar información relacionada: Se pide por pantalla un número de valoración y se muestra el titulo de las películas junto con su sinopsis que cuente con dicha valoración_**
    
 5. **_Ejericio libre: Se muestran una lista de generos, se pide uno de ellos por teclado y muestra las peliculas o pelicula que pertenecen a ese genero, luego se pide la pelicula deseada por teclado y se muestra su sinopsis_**
 
