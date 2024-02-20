@@ -11,6 +11,6 @@ Proyecto de json en python sobre Cines.
 
 4. **_Buscar información relacionada: Se pide por pantalla un número de valoración y se muestra el titulo de las películas junto con su sinopsis que cuente con dicha valoración_**
    
-5. **_ Ejericio libre:Se muestran una lista de géneros, se pide uno de ellos por teclado y muestra las películas o película que pertenecen a ese genero, luego se pide la película deseada por teclado , se muestra su sinopsis y la cantidad de palabras de esa sinopsis _**
+5. **_Ejericio libre:Se muestran una lista de géneros, se pide uno de ellos por teclado y muestra las películas o película que pertenecen a ese genero, luego se pide la película deseada por teclado , se muestra su sinopsis y la cantidad de palabras de esa sinopsis_**
 
 ![image](https://github.com/K1K04/Proyecto_JSON/assets/95848578/ce16c544-16c4-44b0-a16d-aea152d9e284)
